@@ -20,17 +20,19 @@ A Python-based client-server system that fetches and displays real-time flight d
 
 How to Run:
 First, run the server: python sayed.py
+
 Then, run the client: python mClient.py
-Enter your name when prompted (ali) #مثال
+
+Enter your name when prompted (ali مثال)
+
+
 3.Use the menu:
 Use the menu:
 Press 1 → See arrived flights
 Press 2 → See delayed flights
-Press 3 → Search flights by code (e.g. "EK202")
+Press 3 → Search flights by code ("EK202")
 Press 4 → Exit
 
-Technical Stuff:![alt text](image.png)
-Sample Output:![alt text](image-1.png)
 
 
 

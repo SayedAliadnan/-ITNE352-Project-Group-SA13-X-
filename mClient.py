@@ -43,5 +43,5 @@ def main():
             print("Invalid option. Please try again.")
 
     client_socket.close()
-
+if __name__ == "__main__":
     main()

@@ -1,4 +1,4 @@
-# Multithreaded Flight arrival Client/Server Information System## Team Members
+# Multithreaded Flight arrival Client/Server Information System
 
 ## Project Description:
 The Multithreaded Flight Arrival Client/Server Information System is a Python-based application designed to provide real-time flight status updates using the AviationStack API. The system consists of a server application (sayed.py) and a client application (mClient.py). The server connects to the AviationStack API to fetch the latest flight data, manages multiple client connections simultaneously through multithreading, and stores the retrieved flight information in JSON format for efficient access. Clients interact with the system via a command-line interface, where they can view lists of arrived or delayed flights, search for specific flights by their code, and receive up-to-date information. The client-server architecture ensures that multiple users can access flight data concurrently, making the system suitable for environments where timely and accurate flight information is essential.  

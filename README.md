@@ -90,7 +90,22 @@ To: Bahrain International, Terminal: 4, Gate: 13
 Status: landed
 Scheduled Departure: 2025-05-14T18:20:00+00:00
 Scheduled Arrival: 2025-05-14T18:30:00+00:00
+Select an option (1-4): 1
+Arrived Flights:
+all flights have arrived
+Select an option (1-4): 2
+Delayed Flights: 
+all delayed flights have arrived
+Select an option (1-4): 4 
+quit program
+```
 
+
+
+
+
+## conclusion
+The Multithreaded Flight Arrival Client/Server Information System is a robust and efficient solution for real-time flight status updates. By leveraging the AviationStack API, the system provides accurate and timely information to users, making it an essential tool for travelers and aviation enthusiasts alike. The use of multithreading allows for concurrent client connections, ensuring that multiple users can access flight data simultaneously without any performance degradation. Overall, this project demonstrates the power of Python in building scalable and responsive applications in the field of aviation information systems.
 
 
 

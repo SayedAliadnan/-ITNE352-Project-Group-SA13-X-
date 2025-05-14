@@ -91,7 +91,7 @@
             },
             "flight": {
                 "number": "69",
-                "iata": "G917",
+                "iata": "GF69",
                 "icao": "GFA69",
                 "codeshared": null
             },
@@ -107,7 +107,7 @@
                 "iata": "BLR",
                 "icao": "VOBL",
                 "terminal": "2",
-                "gate": null,
+                "gate": "C3",
                 "delay": null,
                 "scheduled": "2025-05-15T05:45:00+00:00",
                 "estimated": "2025-05-15T05:45:00+00:00",
@@ -122,7 +122,7 @@
                 "icao": "OBBI",
                 "terminal": null,
                 "gate": "18B",
-                "baggage": "A06",
+                "baggage": "6T2",
                 "scheduled": "2025-05-15T07:55:00+00:00",
                 "delay": null,
                 "estimated": null,
@@ -286,12 +286,12 @@
                 "icao24": "A6E3E6"
             },
             "live": {
-                "updated": "2025-05-14T18:41:31+00:00",
-                "latitude": 29.0316,
-                "longitude": 30.8281,
-                "altitude": 11887.2,
-                "direction": 134,
-                "speed_horizontal": 1016.75,
+                "updated": "2025-05-14T19:03:57+00:00",
+                "latitude": 27.1278,
+                "longitude": 33.9372,
+                "altitude": 11894.8,
+                "direction": 111,
+                "speed_horizontal": 977.856,
                 "speed_vertical": 0,
                 "is_ground": false
             }
@@ -2181,12 +2181,12 @@
                 "icao24": "7609F0"
             },
             "live": {
-                "updated": "2025-05-14T18:41:47+00:00",
-                "latitude": 30.8763,
-                "longitude": 73.3248,
-                "altitude": 6377.94,
-                "direction": 228,
-                "speed_horizontal": 790.804,
+                "updated": "2025-05-14T19:02:50+00:00",
+                "latitude": 29.6331,
+                "longitude": 70.9424,
+                "altitude": 10363.2,
+                "direction": 247,
+                "speed_horizontal": 750.06,
                 "speed_vertical": 0,
                 "is_ground": false
             }
@@ -2393,12 +2393,12 @@
                 "icao24": "89407B"
             },
             "live": {
-                "updated": "2025-05-14T18:42:09+00:00",
-                "latitude": 19.1571,
-                "longitude": 67.7947,
-                "altitude": 10378.4,
-                "direction": 298,
-                "speed_horizontal": 881.552,
+                "updated": "2025-05-14T19:02:59+00:00",
+                "latitude": 20.4171,
+                "longitude": 65.2889,
+                "altitude": 10363.2,
+                "direction": 297,
+                "speed_horizontal": 874.144,
                 "speed_vertical": 0,
                 "is_ground": false
             }
@@ -2453,12 +2453,12 @@
                 "icao24": "4BB20B"
             },
             "live": {
-                "updated": "2025-05-14T18:43:35+00:00",
-                "latitude": 38.5087,
-                "longitude": 39.9115,
+                "updated": "2025-05-14T19:05:03+00:00",
+                "latitude": 37.6051,
+                "longitude": 43.1905,
                 "altitude": 10668,
-                "direction": 110,
-                "speed_horizontal": 835.252,
+                "direction": 122,
+                "speed_horizontal": 829.696,
                 "speed_vertical": 0,
                 "is_ground": false
             }
@@ -3202,12 +3202,12 @@
                 "icao24": "894076"
             },
             "live": {
-                "updated": "2025-05-14T18:41:47+00:00",
-                "latitude": 26.3113,
-                "longitude": 64.7729,
+                "updated": "2025-05-14T19:02:51+00:00",
+                "latitude": 24.9954,
+                "longitude": 62.378,
                 "altitude": 9144,
-                "direction": 239,
-                "speed_horizontal": 798.212,
+                "direction": 238,
+                "speed_horizontal": 805.62,
                 "speed_vertical": 0,
                 "is_ground": false
             }
@@ -3472,11 +3472,11 @@
                 "icao24": "8940A3"
             },
             "live": {
-                "updated": "2025-05-14T18:41:48+00:00",
-                "latitude": 25.384,
-                "longitude": 63.4084,
+                "updated": "2025-05-14T19:02:51+00:00",
+                "latitude": 24.3135,
+                "longitude": 60.9179,
                 "altitude": 10363.2,
-                "direction": 242,
+                "direction": 257,
                 "speed_horizontal": 803.768,
                 "speed_vertical": 0,
                 "is_ground": false
@@ -3532,12 +3532,12 @@
                 "icao24": "8940CE"
             },
             "live": {
-                "updated": "2025-05-14T18:42:19+00:00",
-                "latitude": 19.9917,
-                "longitude": 66.148,
-                "altitude": 9753.6,
-                "direction": 297,
-                "speed_horizontal": 859.328,
+                "updated": "2025-05-14T19:02:59+00:00",
+                "latitude": 21.1341,
+                "longitude": 63.6529,
+                "altitude": 9738.36,
+                "direction": 294,
+                "speed_horizontal": 848.216,
                 "speed_vertical": 0,
                 "is_ground": false
             }
@@ -3652,12 +3652,12 @@
                 "icao24": "801741"
             },
             "live": {
-                "updated": "2025-05-14T18:45:40+00:00",
-                "latitude": 24.688,
-                "longitude": 57.287,
+                "updated": "2025-05-14T18:59:51+00:00",
+                "latitude": 25.3922,
+                "longitude": 53.746,
                 "altitude": 10972.8,
-                "direction": 292,
-                "speed_horizontal": 844.512,
+                "direction": 282.97,
+                "speed_horizontal": 841.896,
                 "speed_vertical": 0,
                 "is_ground": false
             }
@@ -3814,12 +3814,12 @@
                 "icao24": "4BA8F2"
             },
             "live": {
-                "updated": "2025-05-14T18:43:37+00:00",
-                "latitude": 37.0238,
-                "longitude": 44.0363,
+                "updated": "2025-05-14T19:03:57+00:00",
+                "latitude": 34.8683,
+                "longitude": 44.5892,
                 "altitude": 11887.2,
-                "direction": 159,
-                "speed_horizontal": 770.432,
+                "direction": 202,
+                "speed_horizontal": 716.724,
                 "speed_vertical": 0,
                 "is_ground": false
             }
@@ -3874,9 +3874,9 @@
                 "icao24": "89405B"
             },
             "live": {
-                "updated": "2025-05-14T18:42:17+00:00",
-                "latitude": 16.969,
-                "longitude": 64.8477,
+                "updated": "2025-05-14T19:03:11+00:00",
+                "latitude": 18.6344,
+                "longitude": 62.4355,
                 "altitude": 9761.22,
                 "direction": 306,
                 "speed_horizontal": 905.628,
@@ -4822,7 +4822,7 @@
         },
         {
             "flight_date": "2025-05-14",
-            "flight_status": "active",
+            "flight_status": "landed",
             "departure": {
                 "airport": "Indira Gandhi International",
                 "timezone": "Asia/Kolkata",
@@ -4869,16 +4869,7 @@
                 "icao": "A20N",
                 "icao24": "80161C"
             },
-            "live": {
-                "updated": "2025-05-14T18:41:31+00:00",
-                "latitude": 26.3447,
-                "longitude": 51.6003,
-                "altitude": 4594.86,
-                "direction": 296,
-                "speed_horizontal": 718.576,
-                "speed_vertical": 0,
-                "is_ground": false
-            }
+            "live": null
         },
         {
             "flight_date": "2025-05-14",
@@ -4890,7 +4881,7 @@
                 "icao": "OERK",
                 "terminal": "T1",
                 "gate": "106",
-                "delay": 48,
+                "delay": 26,
                 "scheduled": "2025-05-14T18:00:00+00:00",
                 "estimated": "2025-05-14T18:00:00+00:00",
                 "actual": "2025-05-14T18:48:00+00:00",

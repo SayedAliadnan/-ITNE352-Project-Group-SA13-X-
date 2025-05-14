@@ -3,9 +3,345 @@
         "limit": 100,
         "offset": 0,
         "count": 100,
-        "total": 440
+        "total": 447
     },
     "data": [
+        {
+            "flight_date": "2025-05-15",
+            "flight_status": "scheduled",
+            "departure": {
+                "airport": "Halle",
+                "timezone": "Europe/Berlin",
+                "iata": "LEJ",
+                "icao": "EDDP",
+                "terminal": null,
+                "gate": null,
+                "delay": 15,
+                "scheduled": "2025-05-15T02:35:00+00:00",
+                "estimated": "2025-05-15T02:35:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "arrival": {
+                "airport": "Bahrain International",
+                "timezone": "Asia/Bahrain",
+                "iata": "BAH",
+                "icao": "OBBI",
+                "terminal": null,
+                "gate": null,
+                "baggage": null,
+                "scheduled": "2025-05-15T08:50:00+00:00",
+                "delay": null,
+                "estimated": null,
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "AeroLogic",
+                "iata": "3S",
+                "icao": "BOX"
+            },
+            "flight": {
+                "number": "584",
+                "iata": "3S584",
+                "icao": "BOX584",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-15",
+            "flight_status": "scheduled",
+            "departure": {
+                "airport": "Madras International (Meenambakkam)",
+                "timezone": "Asia/Kolkata",
+                "iata": "MAA",
+                "icao": "VOMM",
+                "terminal": "2",
+                "gate": null,
+                "delay": null,
+                "scheduled": "2025-05-15T06:00:00+00:00",
+                "estimated": "2025-05-15T06:00:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "arrival": {
+                "airport": "Bahrain International",
+                "timezone": "Asia/Bahrain",
+                "iata": "BAH",
+                "icao": "OBBI",
+                "terminal": null,
+                "gate": "19A",
+                "baggage": "A04",
+                "scheduled": "2025-05-15T08:25:00+00:00",
+                "delay": null,
+                "estimated": null,
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Gulf Air",
+                "iata": "GF",
+                "icao": "GFA"
+            },
+            "flight": {
+                "number": "69",
+                "iata": "G917",
+                "icao": "GFA69",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-15",
+            "flight_status": "scheduled",
+            "departure": {
+                "airport": "Bangalore International Airport",
+                "timezone": "Asia/Kolkata",
+                "iata": "BLR",
+                "icao": "VOBL",
+                "terminal": "2",
+                "gate": null,
+                "delay": null,
+                "scheduled": "2025-05-15T05:45:00+00:00",
+                "estimated": "2025-05-15T05:45:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "arrival": {
+                "airport": "Bahrain International",
+                "timezone": "Asia/Bahrain",
+                "iata": "BAH",
+                "icao": "OBBI",
+                "terminal": null,
+                "gate": "18B",
+                "baggage": "A06",
+                "scheduled": "2025-05-15T07:55:00+00:00",
+                "delay": null,
+                "estimated": null,
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Gulf Air",
+                "iata": "GF",
+                "icao": "GFA"
+            },
+            "flight": {
+                "number": "283",
+                "iata": "GF283",
+                "icao": "GFA283",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-15",
+            "flight_status": "scheduled",
+            "departure": {
+                "airport": "Chhatrapati Shivaji International (Sahar International)",
+                "timezone": "Asia/Kolkata",
+                "iata": "BOM",
+                "icao": "VABB",
+                "terminal": "2",
+                "gate": "40A",
+                "delay": null,
+                "scheduled": "2025-05-15T06:30:00+00:00",
+                "estimated": "2025-05-15T06:30:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "arrival": {
+                "airport": "Bahrain International",
+                "timezone": "Asia/Bahrain",
+                "iata": "BAH",
+                "icao": "OBBI",
+                "terminal": null,
+                "gate": "20A",
+                "baggage": null,
+                "scheduled": "2025-05-15T07:30:00+00:00",
+                "delay": null,
+                "estimated": null,
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Gulf Air",
+                "iata": "GF",
+                "icao": "GFA"
+            },
+            "flight": {
+                "number": "57",
+                "iata": "GF57",
+                "icao": "GFA57",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-15",
+            "flight_status": "scheduled",
+            "departure": {
+                "airport": "Sharjah",
+                "timezone": "Asia/Dubai",
+                "iata": "SHJ",
+                "icao": "OMSJ",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2025-05-15T03:55:00+00:00",
+                "estimated": "2025-05-15T03:55:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "arrival": {
+                "airport": "Bahrain International",
+                "timezone": "Asia/Bahrain",
+                "iata": "BAH",
+                "icao": "OBBI",
+                "terminal": "3",
+                "gate": "13A",
+                "baggage": "A04",
+                "scheduled": "2025-05-15T04:05:00+00:00",
+                "delay": null,
+                "estimated": null,
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Air Arabia",
+                "iata": "G9",
+                "icao": "ABY"
+            },
+            "flight": {
+                "number": "107",
+                "iata": "G9107",
+                "icao": "ABY107",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2025-05-14",
+            "flight_status": "active",
+            "departure": {
+                "airport": "NAS Sigonella",
+                "timezone": "Europe/Rome",
+                "iata": "NSY",
+                "icao": "LICZ",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2025-05-14T19:05:00+00:00",
+                "estimated": "2025-05-14T19:05:00+00:00",
+                "actual": "2025-05-14T18:53:00+00:00",
+                "estimated_runway": "2025-05-14T18:53:00+00:00",
+                "actual_runway": "2025-05-14T18:53:00+00:00"
+            },
+            "arrival": {
+                "airport": "Bahrain International",
+                "timezone": "Asia/Bahrain",
+                "iata": "BAH",
+                "icao": "OBBI",
+                "terminal": "3",
+                "gate": null,
+                "baggage": null,
+                "scheduled": "2025-05-15T00:11:00+00:00",
+                "delay": null,
+                "estimated": "2025-05-15T00:02:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Western Global Airlines",
+                "iata": "KD",
+                "icao": "WGN"
+            },
+            "flight": {
+                "number": "187",
+                "iata": "KD187",
+                "icao": "WGN187",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "N543JN",
+                "iata": "MD11",
+                "icao": "MD11",
+                "icao24": "A6E3E6"
+            },
+            "live": {
+                "updated": "2025-05-14T18:41:31+00:00",
+                "latitude": 29.0316,
+                "longitude": 30.8281,
+                "altitude": 11887.2,
+                "direction": 134,
+                "speed_horizontal": 1016.75,
+                "speed_vertical": 0,
+                "is_ground": false
+            }
+        },
+        {
+            "flight_date": "2025-05-14",
+            "flight_status": "scheduled",
+            "departure": {
+                "airport": "NAS Sigonella",
+                "timezone": "Europe/Rome",
+                "iata": "NSY",
+                "icao": "LICZ",
+                "terminal": null,
+                "gate": null,
+                "delay": 5,
+                "scheduled": "2025-05-14T19:05:00+00:00",
+                "estimated": "2025-05-14T19:05:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "arrival": {
+                "airport": "Bahrain International",
+                "timezone": "Asia/Bahrain",
+                "iata": "BAH",
+                "icao": "OBBI",
+                "terminal": "3",
+                "gate": null,
+                "baggage": null,
+                "scheduled": "2025-05-15T00:11:00+00:00",
+                "delay": null,
+                "estimated": null,
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Western Global Airlines",
+                "iata": "KD",
+                "icao": "WGN"
+            },
+            "flight": {
+                "number": null,
+                "iata": "KD",
+                "icao": "WGN",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
         {
             "flight_date": "2025-05-15",
             "flight_status": "scheduled",
@@ -166,7 +502,7 @@
                 "timezone": "Asia/Bahrain",
                 "iata": "BAH",
                 "icao": "OBBI",
-                "terminal": null,
+                "terminal": "3",
                 "gate": "14A",
                 "baggage": "A04",
                 "scheduled": "2025-05-15T02:10:00+00:00",
@@ -212,7 +548,7 @@
                 "timezone": "Asia/Bahrain",
                 "iata": "BAH",
                 "icao": "OBBI",
-                "terminal": null,
+                "terminal": "3",
                 "gate": "14A",
                 "baggage": "A04",
                 "scheduled": "2025-05-15T02:10:00+00:00",
@@ -265,7 +601,7 @@
                 "timezone": "Asia/Bahrain",
                 "iata": "BAH",
                 "icao": "OBBI",
-                "terminal": null,
+                "terminal": "3",
                 "gate": "14A",
                 "baggage": "A04",
                 "scheduled": "2025-05-15T02:10:00+00:00",
@@ -318,7 +654,7 @@
                 "timezone": "Asia/Bahrain",
                 "iata": "BAH",
                 "icao": "OBBI",
-                "terminal": null,
+                "terminal": "3",
                 "gate": "14A",
                 "baggage": "A04",
                 "scheduled": "2025-05-15T02:10:00+00:00",
@@ -371,7 +707,7 @@
                 "timezone": "Asia/Bahrain",
                 "iata": "BAH",
                 "icao": "OBBI",
-                "terminal": null,
+                "terminal": "3",
                 "gate": "14A",
                 "baggage": "A04",
                 "scheduled": "2025-05-15T02:10:00+00:00",
@@ -411,7 +747,7 @@
                 "iata": "RUH",
                 "icao": "OERK",
                 "terminal": "3",
-                "gate": "303",
+                "gate": "304",
                 "delay": null,
                 "scheduled": "2025-05-14T23:20:00+00:00",
                 "estimated": "2025-05-14T23:20:00+00:00",
@@ -424,7 +760,7 @@
                 "timezone": "Asia/Bahrain",
                 "iata": "BAH",
                 "icao": "OBBI",
-                "terminal": "4",
+                "terminal": "3",
                 "gate": "12",
                 "baggage": "A05",
                 "scheduled": "2025-05-15T00:35:00+00:00",
@@ -464,7 +800,7 @@
                 "iata": "DXB",
                 "icao": "OMDB",
                 "terminal": "3",
-                "gate": "B3",
+                "gate": "B4",
                 "delay": null,
                 "scheduled": "2025-05-15T02:00:00+00:00",
                 "estimated": "2025-05-15T02:00:00+00:00",
@@ -477,7 +813,7 @@
                 "timezone": "Asia/Bahrain",
                 "iata": "BAH",
                 "icao": "OBBI",
-                "terminal": null,
+                "terminal": "3",
                 "gate": "15A",
                 "baggage": "A08",
                 "scheduled": "2025-05-15T02:15:00+00:00",
@@ -510,7 +846,7 @@
                 "iata": "DXB",
                 "icao": "OMDB",
                 "terminal": "3",
-                "gate": "B3",
+                "gate": "B4",
                 "delay": null,
                 "scheduled": "2025-05-15T02:00:00+00:00",
                 "estimated": "2025-05-15T02:00:00+00:00",
@@ -523,7 +859,7 @@
                 "timezone": "Asia/Bahrain",
                 "iata": "BAH",
                 "icao": "OBBI",
-                "terminal": null,
+                "terminal": "3",
                 "gate": "15A",
                 "baggage": "A08",
                 "scheduled": "2025-05-15T02:15:00+00:00",
@@ -563,7 +899,7 @@
                 "iata": "DXB",
                 "icao": "OMDB",
                 "terminal": "3",
-                "gate": "B3",
+                "gate": "B4",
                 "delay": null,
                 "scheduled": "2025-05-15T02:00:00+00:00",
                 "estimated": "2025-05-15T02:00:00+00:00",
@@ -576,7 +912,7 @@
                 "timezone": "Asia/Bahrain",
                 "iata": "BAH",
                 "icao": "OBBI",
-                "terminal": null,
+                "terminal": "3",
                 "gate": "15A",
                 "baggage": "A08",
                 "scheduled": "2025-05-15T02:15:00+00:00",
@@ -616,7 +952,7 @@
                 "iata": "DXB",
                 "icao": "OMDB",
                 "terminal": "3",
-                "gate": "B3",
+                "gate": "B4",
                 "delay": null,
                 "scheduled": "2025-05-15T02:00:00+00:00",
                 "estimated": "2025-05-15T02:00:00+00:00",
@@ -629,7 +965,7 @@
                 "timezone": "Asia/Bahrain",
                 "iata": "BAH",
                 "icao": "OBBI",
-                "terminal": null,
+                "terminal": "3",
                 "gate": "15A",
                 "baggage": "A08",
                 "scheduled": "2025-05-15T02:15:00+00:00",
@@ -669,7 +1005,7 @@
                 "iata": "DXB",
                 "icao": "OMDB",
                 "terminal": "3",
-                "gate": "B3",
+                "gate": "B4",
                 "delay": null,
                 "scheduled": "2025-05-15T02:00:00+00:00",
                 "estimated": "2025-05-15T02:00:00+00:00",
@@ -682,7 +1018,7 @@
                 "timezone": "Asia/Bahrain",
                 "iata": "BAH",
                 "icao": "OBBI",
-                "terminal": null,
+                "terminal": "3",
                 "gate": "15A",
                 "baggage": "A08",
                 "scheduled": "2025-05-15T02:15:00+00:00",
@@ -735,7 +1071,7 @@
                 "timezone": "Asia/Bahrain",
                 "iata": "BAH",
                 "icao": "OBBI",
-                "terminal": "4",
+                "terminal": "3",
                 "gate": "16B",
                 "baggage": "A05",
                 "scheduled": "2025-05-15T01:50:00+00:00",
@@ -781,7 +1117,7 @@
                 "timezone": "Asia/Bahrain",
                 "iata": "BAH",
                 "icao": "OBBI",
-                "terminal": "4",
+                "terminal": "3",
                 "gate": "13",
                 "baggage": "A06",
                 "scheduled": "2025-05-14T18:30:00+00:00",
@@ -860,7 +1196,7 @@
                 "iata": "RUH",
                 "icao": "OERK",
                 "terminal": "3",
-                "gate": "303",
+                "gate": "304",
                 "delay": null,
                 "scheduled": "2025-05-14T23:20:00+00:00",
                 "estimated": "2025-05-14T23:20:00+00:00",
@@ -873,7 +1209,7 @@
                 "timezone": "Asia/Bahrain",
                 "iata": "BAH",
                 "icao": "OBBI",
-                "terminal": "4",
+                "terminal": "3",
                 "gate": "12",
                 "baggage": "A05",
                 "scheduled": "2025-05-15T00:35:00+00:00",
@@ -906,7 +1242,7 @@
                 "iata": "DMM",
                 "icao": "OEDF",
                 "terminal": "1",
-                "gate": null,
+                "gate": "21",
                 "delay": null,
                 "scheduled": "2025-05-14T23:35:00+00:00",
                 "estimated": "2025-05-14T23:35:00+00:00",
@@ -919,7 +1255,7 @@
                 "timezone": "Asia/Bahrain",
                 "iata": "BAH",
                 "icao": "OBBI",
-                "terminal": "4",
+                "terminal": "3",
                 "gate": "A3",
                 "baggage": "A01",
                 "scheduled": "2025-05-15T00:15:00+00:00",
@@ -965,7 +1301,7 @@
                 "timezone": "Asia/Bahrain",
                 "iata": "BAH",
                 "icao": "OBBI",
-                "terminal": "4",
+                "terminal": "3",
                 "gate": "15B",
                 "baggage": "A08",
                 "scheduled": "2025-05-15T00:20:00+00:00",
@@ -1011,7 +1347,7 @@
                 "timezone": "Asia/Bahrain",
                 "iata": "BAH",
                 "icao": "OBBI",
-                "terminal": "4",
+                "terminal": "3",
                 "gate": "14B",
                 "baggage": "A07",
                 "scheduled": "2025-05-15T00:40:00+00:00",
@@ -1057,7 +1393,7 @@
                 "timezone": "Asia/Bahrain",
                 "iata": "BAH",
                 "icao": "OBBI",
-                "terminal": "4",
+                "terminal": "3",
                 "gate": "14B",
                 "baggage": "A07",
                 "scheduled": "2025-05-15T00:40:00+00:00",
@@ -1110,7 +1446,7 @@
                 "timezone": "Asia/Bahrain",
                 "iata": "BAH",
                 "icao": "OBBI",
-                "terminal": "4",
+                "terminal": "3",
                 "gate": "14B",
                 "baggage": "A07",
                 "scheduled": "2025-05-15T00:40:00+00:00",
@@ -1163,7 +1499,7 @@
                 "timezone": "Asia/Bahrain",
                 "iata": "BAH",
                 "icao": "OBBI",
-                "terminal": "4",
+                "terminal": "3",
                 "gate": "14B",
                 "baggage": "A07",
                 "scheduled": "2025-05-15T00:40:00+00:00",
@@ -1216,7 +1552,7 @@
                 "timezone": "Asia/Bahrain",
                 "iata": "BAH",
                 "icao": "OBBI",
-                "terminal": "4",
+                "terminal": "3",
                 "gate": null,
                 "baggage": null,
                 "scheduled": "2025-05-14T23:45:00+00:00",
@@ -1257,7 +1593,7 @@
                 "icao": "LTFM",
                 "terminal": null,
                 "gate": null,
-                "delay": null,
+                "delay": 20,
                 "scheduled": "2025-05-14T22:20:00+00:00",
                 "estimated": "2025-05-14T22:20:00+00:00",
                 "actual": null,
@@ -1269,7 +1605,7 @@
                 "timezone": "Asia/Bahrain",
                 "iata": "BAH",
                 "icao": "OBBI",
-                "terminal": null,
+                "terminal": "3",
                 "gate": null,
                 "baggage": null,
                 "scheduled": "2025-05-15T02:13:00+00:00",
@@ -1302,7 +1638,7 @@
                 "iata": "KWI",
                 "icao": "OKKK",
                 "terminal": "1",
-                "gate": "4",
+                "gate": "9",
                 "delay": null,
                 "scheduled": "2025-05-14T22:50:00+00:00",
                 "estimated": "2025-05-14T22:50:00+00:00",
@@ -1315,7 +1651,7 @@
                 "timezone": "Asia/Bahrain",
                 "iata": "BAH",
                 "icao": "OBBI",
-                "terminal": "4",
+                "terminal": "3",
                 "gate": "24",
                 "baggage": "A03",
                 "scheduled": "2025-05-14T23:55:00+00:00",
@@ -1348,7 +1684,7 @@
                 "iata": "KWI",
                 "icao": "OKKK",
                 "terminal": "1",
-                "gate": "4",
+                "gate": "9",
                 "delay": null,
                 "scheduled": "2025-05-14T22:50:00+00:00",
                 "estimated": "2025-05-14T22:50:00+00:00",
@@ -1361,7 +1697,7 @@
                 "timezone": "Asia/Bahrain",
                 "iata": "BAH",
                 "icao": "OBBI",
-                "terminal": "4",
+                "terminal": "3",
                 "gate": "24",
                 "baggage": "A03",
                 "scheduled": "2025-05-14T23:55:00+00:00",
@@ -1414,7 +1750,7 @@
                 "timezone": "Asia/Bahrain",
                 "iata": "BAH",
                 "icao": "OBBI",
-                "terminal": "4",
+                "terminal": "3",
                 "gate": "A3",
                 "baggage": "A01",
                 "scheduled": "2025-05-15T00:20:00+00:00",
@@ -1460,7 +1796,7 @@
                 "timezone": "Asia/Bahrain",
                 "iata": "BAH",
                 "icao": "OBBI",
-                "terminal": "4",
+                "terminal": "3",
                 "gate": "A3",
                 "baggage": "A01",
                 "scheduled": "2025-05-15T00:20:00+00:00",
@@ -1513,7 +1849,7 @@
                 "timezone": "Asia/Bahrain",
                 "iata": "BAH",
                 "icao": "OBBI",
-                "terminal": "4",
+                "terminal": "3",
                 "gate": "A3",
                 "baggage": "A01",
                 "scheduled": "2025-05-15T00:20:00+00:00",
@@ -1566,7 +1902,7 @@
                 "timezone": "Asia/Bahrain",
                 "iata": "BAH",
                 "icao": "OBBI",
-                "terminal": "4",
+                "terminal": "3",
                 "gate": "A4",
                 "baggage": "A02",
                 "scheduled": "2025-05-15T00:30:00+00:00",
@@ -1612,7 +1948,7 @@
                 "timezone": "Asia/Bahrain",
                 "iata": "BAH",
                 "icao": "OBBI",
-                "terminal": "4",
+                "terminal": "3",
                 "gate": "A4",
                 "baggage": "A02",
                 "scheduled": "2025-05-15T00:30:00+00:00",
@@ -1665,7 +2001,7 @@
                 "timezone": "Asia/Bahrain",
                 "iata": "BAH",
                 "icao": "OBBI",
-                "terminal": "4",
+                "terminal": "3",
                 "gate": "20B",
                 "baggage": "A05",
                 "scheduled": "2025-05-14T23:55:00+00:00",
@@ -1711,7 +2047,7 @@
                 "timezone": "Asia/Bahrain",
                 "iata": "BAH",
                 "icao": "OBBI",
-                "terminal": "4",
+                "terminal": "3",
                 "gate": "20B",
                 "baggage": "A05",
                 "scheduled": "2025-05-14T23:55:00+00:00",
@@ -1764,7 +2100,7 @@
                 "timezone": "Asia/Bahrain",
                 "iata": "BAH",
                 "icao": "OBBI",
-                "terminal": "4",
+                "terminal": "3",
                 "gate": "20B",
                 "baggage": "A05",
                 "scheduled": "2025-05-14T23:55:00+00:00",
@@ -1797,7 +2133,7 @@
         },
         {
             "flight_date": "2025-05-14",
-            "flight_status": "scheduled",
+            "flight_status": "active",
             "departure": {
                 "airport": "Alama Iqbal International",
                 "timezone": "Asia/Karachi",
@@ -1805,24 +2141,24 @@
                 "icao": "OPLA",
                 "terminal": null,
                 "gate": null,
-                "delay": null,
+                "delay": 13,
                 "scheduled": "2025-05-14T23:15:00+00:00",
                 "estimated": "2025-05-14T23:15:00+00:00",
-                "actual": null,
-                "estimated_runway": null,
-                "actual_runway": null
+                "actual": "2025-05-14T23:27:00+00:00",
+                "estimated_runway": "2025-05-14T23:27:00+00:00",
+                "actual_runway": "2025-05-14T23:27:00+00:00"
             },
             "arrival": {
                 "airport": "Bahrain International",
                 "timezone": "Asia/Bahrain",
                 "iata": "BAH",
                 "icao": "OBBI",
-                "terminal": "4",
+                "terminal": "3",
                 "gate": "13A",
                 "baggage": "A08",
                 "scheduled": "2025-05-15T01:00:00+00:00",
                 "delay": null,
-                "estimated": null,
+                "estimated": "2025-05-15T00:43:00+00:00",
                 "actual": null,
                 "estimated_runway": null,
                 "actual_runway": null
@@ -1838,8 +2174,22 @@
                 "icao": "FJL530",
                 "codeshared": null
             },
-            "aircraft": null,
-            "live": null
+            "aircraft": {
+                "registration": "AP-BOP",
+                "iata": "A320",
+                "icao": "A320",
+                "icao24": "7609F0"
+            },
+            "live": {
+                "updated": "2025-05-14T18:41:47+00:00",
+                "latitude": 30.8763,
+                "longitude": 73.3248,
+                "altitude": 6377.94,
+                "direction": 228,
+                "speed_horizontal": 790.804,
+                "speed_vertical": 0,
+                "is_ground": false
+            }
         },
         {
             "flight_date": "2025-05-14",
@@ -1863,7 +2213,7 @@
                 "timezone": "Asia/Bahrain",
                 "iata": "BAH",
                 "icao": "OBBI",
-                "terminal": "4",
+                "terminal": "3",
                 "gate": null,
                 "baggage": null,
                 "scheduled": "2025-05-14T23:45:00+00:00",
@@ -1889,7 +2239,7 @@
         },
         {
             "flight_date": "2025-05-14",
-            "flight_status": "scheduled",
+            "flight_status": "landed",
             "departure": {
                 "airport": "Dubai",
                 "timezone": "Asia/Dubai",
@@ -1897,27 +2247,27 @@
                 "icao": "OMDB",
                 "terminal": "1",
                 "gate": "D7",
-                "delay": null,
+                "delay": 29,
                 "scheduled": "2025-05-14T21:00:00+00:00",
                 "estimated": "2025-05-14T21:00:00+00:00",
-                "actual": null,
-                "estimated_runway": null,
-                "actual_runway": null
+                "actual": "2025-05-14T21:28:00+00:00",
+                "estimated_runway": "2025-05-14T21:28:00+00:00",
+                "actual_runway": "2025-05-14T21:28:00+00:00"
             },
             "arrival": {
                 "airport": "Bahrain International",
                 "timezone": "Asia/Bahrain",
                 "iata": "BAH",
                 "icao": "OBBI",
-                "terminal": "4",
+                "terminal": "3",
                 "gate": "15",
                 "baggage": "A06",
                 "scheduled": "2025-05-14T21:15:00+00:00",
-                "delay": null,
-                "estimated": null,
-                "actual": null,
-                "estimated_runway": null,
-                "actual_runway": null
+                "delay": 2,
+                "estimated": "2025-05-14T21:16:00+00:00",
+                "actual": "2025-05-14T21:17:00+00:00",
+                "estimated_runway": "2025-05-14T21:17:00+00:00",
+                "actual_runway": "2025-05-14T21:17:00+00:00"
             },
             "airline": {
                 "name": "Turkish Airlines",
@@ -1962,12 +2312,12 @@
                 "timezone": "Asia/Bahrain",
                 "iata": "BAH",
                 "icao": "OBBI",
-                "terminal": "4",
+                "terminal": "3",
                 "gate": "22A",
                 "baggage": "A01",
                 "scheduled": "2025-05-14T22:55:00+00:00",
                 "delay": null,
-                "estimated": "2025-05-14T22:54:00+00:00",
+                "estimated": "2025-05-14T22:52:00+00:00",
                 "actual": null,
                 "estimated_runway": null,
                 "actual_runway": null
@@ -1995,7 +2345,7 @@
         },
         {
             "flight_date": "2025-05-14",
-            "flight_status": "scheduled",
+            "flight_status": "active",
             "departure": {
                 "airport": "Goa International",
                 "timezone": "Asia/Kolkata",
@@ -2003,24 +2353,24 @@
                 "icao": "VOGO",
                 "terminal": "1",
                 "gate": "A1",
-                "delay": null,
+                "delay": 8,
                 "scheduled": "2025-05-14T23:05:00+00:00",
                 "estimated": "2025-05-14T23:05:00+00:00",
-                "actual": null,
-                "estimated_runway": null,
-                "actual_runway": null
+                "actual": "2025-05-14T23:12:00+00:00",
+                "estimated_runway": "2025-05-14T23:12:00+00:00",
+                "actual_runway": "2025-05-14T23:12:00+00:00"
             },
             "arrival": {
                 "airport": "Bahrain International",
                 "timezone": "Asia/Bahrain",
                 "iata": "BAH",
                 "icao": "OBBI",
-                "terminal": "4",
-                "gate": "12A",
+                "terminal": "3",
+                "gate": "15A",
                 "baggage": "A06",
                 "scheduled": "2025-05-15T00:35:00+00:00",
                 "delay": null,
-                "estimated": null,
+                "estimated": "2025-05-15T00:20:00+00:00",
                 "actual": null,
                 "estimated_runway": null,
                 "actual_runway": null
@@ -2036,12 +2386,26 @@
                 "icao": "GFA287",
                 "codeshared": null
             },
-            "aircraft": null,
-            "live": null
+            "aircraft": {
+                "registration": "A9C-CE",
+                "iata": "A321",
+                "icao": "A321",
+                "icao24": "89407B"
+            },
+            "live": {
+                "updated": "2025-05-14T18:42:09+00:00",
+                "latitude": 19.1571,
+                "longitude": 67.7947,
+                "altitude": 10378.4,
+                "direction": 298,
+                "speed_horizontal": 881.552,
+                "speed_vertical": 0,
+                "is_ground": false
+            }
         },
         {
             "flight_date": "2025-05-14",
-            "flight_status": "scheduled",
+            "flight_status": "active",
             "departure": {
                 "airport": "Istanbul Airport",
                 "timezone": "Europe/Istanbul",
@@ -2049,24 +2413,24 @@
                 "icao": "LTFM",
                 "terminal": null,
                 "gate": "B3A",
-                "delay": 10,
+                "delay": 12,
                 "scheduled": "2025-05-14T20:15:00+00:00",
                 "estimated": "2025-05-14T20:15:00+00:00",
-                "actual": null,
-                "estimated_runway": null,
-                "actual_runway": null
+                "actual": "2025-05-14T20:26:00+00:00",
+                "estimated_runway": "2025-05-14T20:26:00+00:00",
+                "actual_runway": "2025-05-14T20:26:00+00:00"
             },
             "arrival": {
                 "airport": "Bahrain International",
                 "timezone": "Asia/Bahrain",
                 "iata": "BAH",
                 "icao": "OBBI",
-                "terminal": "4",
+                "terminal": "3",
                 "gate": "12B",
                 "baggage": "A07",
                 "scheduled": "2025-05-15T00:15:00+00:00",
                 "delay": null,
-                "estimated": null,
+                "estimated": "2025-05-15T00:02:00+00:00",
                 "actual": null,
                 "estimated_runway": null,
                 "actual_runway": null
@@ -2089,19 +2453,19 @@
                 "icao24": "4BB20B"
             },
             "live": {
-                "updated": "2025-05-14T17:29:51+00:00",
-                "latitude": 41.3813,
-                "longitude": 28.6188,
-                "altitude": 1897.38,
-                "direction": 268.29,
-                "speed_horizontal": 496.548,
-                "speed_vertical": 52.668,
+                "updated": "2025-05-14T18:43:35+00:00",
+                "latitude": 38.5087,
+                "longitude": 39.9115,
+                "altitude": 10668,
+                "direction": 110,
+                "speed_horizontal": 835.252,
+                "speed_vertical": 0,
                 "is_ground": false
             }
         },
         {
             "flight_date": "2025-05-14",
-            "flight_status": "scheduled",
+            "flight_status": "active",
             "departure": {
                 "airport": "Istanbul Airport",
                 "timezone": "Europe/Istanbul",
@@ -2109,24 +2473,24 @@
                 "icao": "LTFM",
                 "terminal": null,
                 "gate": "B3A",
-                "delay": 10,
+                "delay": 12,
                 "scheduled": "2025-05-14T20:15:00+00:00",
                 "estimated": "2025-05-14T20:15:00+00:00",
-                "actual": null,
-                "estimated_runway": null,
-                "actual_runway": null
+                "actual": "2025-05-14T20:26:00+00:00",
+                "estimated_runway": "2025-05-14T20:26:00+00:00",
+                "actual_runway": "2025-05-14T20:26:00+00:00"
             },
             "arrival": {
                 "airport": "Bahrain International",
                 "timezone": "Asia/Bahrain",
                 "iata": "BAH",
                 "icao": "OBBI",
-                "terminal": "4",
+                "terminal": "3",
                 "gate": "12B",
                 "baggage": "A07",
                 "scheduled": "2025-05-15T00:15:00+00:00",
                 "delay": null,
-                "estimated": null,
+                "estimated": "2025-05-15T00:02:00+00:00",
                 "actual": null,
                 "estimated_runway": null,
                 "actual_runway": null
@@ -2154,7 +2518,7 @@
         },
         {
             "flight_date": "2025-05-14",
-            "flight_status": "scheduled",
+            "flight_status": "active",
             "departure": {
                 "airport": "Istanbul Airport",
                 "timezone": "Europe/Istanbul",
@@ -2162,24 +2526,24 @@
                 "icao": "LTFM",
                 "terminal": null,
                 "gate": "B3A",
-                "delay": 10,
+                "delay": 12,
                 "scheduled": "2025-05-14T20:15:00+00:00",
                 "estimated": "2025-05-14T20:15:00+00:00",
-                "actual": null,
-                "estimated_runway": null,
-                "actual_runway": null
+                "actual": "2025-05-14T20:26:00+00:00",
+                "estimated_runway": "2025-05-14T20:26:00+00:00",
+                "actual_runway": "2025-05-14T20:26:00+00:00"
             },
             "arrival": {
                 "airport": "Bahrain International",
                 "timezone": "Asia/Bahrain",
                 "iata": "BAH",
                 "icao": "OBBI",
-                "terminal": "4",
+                "terminal": "3",
                 "gate": "12B",
                 "baggage": "A07",
                 "scheduled": "2025-05-15T00:15:00+00:00",
                 "delay": null,
-                "estimated": null,
+                "estimated": "2025-05-15T00:02:00+00:00",
                 "actual": null,
                 "estimated_runway": null,
                 "actual_runway": null
@@ -2207,7 +2571,7 @@
         },
         {
             "flight_date": "2025-05-14",
-            "flight_status": "scheduled",
+            "flight_status": "active",
             "departure": {
                 "airport": "Istanbul Airport",
                 "timezone": "Europe/Istanbul",
@@ -2215,24 +2579,24 @@
                 "icao": "LTFM",
                 "terminal": null,
                 "gate": "B3A",
-                "delay": 10,
+                "delay": 12,
                 "scheduled": "2025-05-14T20:15:00+00:00",
                 "estimated": "2025-05-14T20:15:00+00:00",
-                "actual": null,
-                "estimated_runway": null,
-                "actual_runway": null
+                "actual": "2025-05-14T20:26:00+00:00",
+                "estimated_runway": "2025-05-14T20:26:00+00:00",
+                "actual_runway": "2025-05-14T20:26:00+00:00"
             },
             "arrival": {
                 "airport": "Bahrain International",
                 "timezone": "Asia/Bahrain",
                 "iata": "BAH",
                 "icao": "OBBI",
-                "terminal": "4",
+                "terminal": "3",
                 "gate": "12B",
                 "baggage": "A07",
                 "scheduled": "2025-05-15T00:15:00+00:00",
                 "delay": null,
-                "estimated": null,
+                "estimated": "2025-05-15T00:02:00+00:00",
                 "actual": null,
                 "estimated_runway": null,
                 "actual_runway": null
@@ -2260,7 +2624,7 @@
         },
         {
             "flight_date": "2025-05-14",
-            "flight_status": "scheduled",
+            "flight_status": "active",
             "departure": {
                 "airport": "Istanbul Airport",
                 "timezone": "Europe/Istanbul",
@@ -2268,24 +2632,24 @@
                 "icao": "LTFM",
                 "terminal": null,
                 "gate": "B3A",
-                "delay": 10,
+                "delay": 12,
                 "scheduled": "2025-05-14T20:15:00+00:00",
                 "estimated": "2025-05-14T20:15:00+00:00",
-                "actual": null,
-                "estimated_runway": null,
-                "actual_runway": null
+                "actual": "2025-05-14T20:26:00+00:00",
+                "estimated_runway": "2025-05-14T20:26:00+00:00",
+                "actual_runway": "2025-05-14T20:26:00+00:00"
             },
             "arrival": {
                 "airport": "Bahrain International",
                 "timezone": "Asia/Bahrain",
                 "iata": "BAH",
                 "icao": "OBBI",
-                "terminal": "4",
+                "terminal": "3",
                 "gate": "12B",
                 "baggage": "A07",
                 "scheduled": "2025-05-15T00:15:00+00:00",
                 "delay": null,
-                "estimated": null,
+                "estimated": "2025-05-15T00:02:00+00:00",
                 "actual": null,
                 "estimated_runway": null,
                 "actual_runway": null
@@ -2313,7 +2677,7 @@
         },
         {
             "flight_date": "2025-05-14",
-            "flight_status": "scheduled",
+            "flight_status": "landed",
             "departure": {
                 "airport": "Dubai",
                 "timezone": "Asia/Dubai",
@@ -2321,27 +2685,27 @@
                 "icao": "OMDB",
                 "terminal": "2",
                 "gate": "F10",
-                "delay": 5,
+                "delay": 25,
                 "scheduled": "2025-05-14T20:45:00+00:00",
                 "estimated": "2025-05-14T20:45:00+00:00",
-                "actual": null,
-                "estimated_runway": null,
-                "actual_runway": null
+                "actual": "2025-05-14T21:09:00+00:00",
+                "estimated_runway": "2025-05-14T21:09:00+00:00",
+                "actual_runway": "2025-05-14T21:09:00+00:00"
             },
             "arrival": {
                 "airport": "Bahrain International",
                 "timezone": "Asia/Bahrain",
                 "iata": "BAH",
                 "icao": "OBBI",
-                "terminal": "4",
+                "terminal": "3",
                 "gate": "12A",
-                "baggage": "A04",
+                "baggage": "A07",
                 "scheduled": "2025-05-14T21:00:00+00:00",
-                "delay": null,
-                "estimated": null,
-                "actual": null,
-                "estimated_runway": null,
-                "actual_runway": null
+                "delay": 3,
+                "estimated": "2025-05-14T21:01:00+00:00",
+                "actual": "2025-05-14T21:03:00+00:00",
+                "estimated_runway": "2025-05-14T21:03:00+00:00",
+                "actual_runway": "2025-05-14T21:03:00+00:00"
             },
             "airline": {
                 "name": "Emirates",
@@ -2366,7 +2730,7 @@
         },
         {
             "flight_date": "2025-05-14",
-            "flight_status": "scheduled",
+            "flight_status": "landed",
             "departure": {
                 "airport": "Doha International",
                 "timezone": "Asia/Qatar",
@@ -2374,27 +2738,27 @@
                 "icao": "OTHH",
                 "terminal": null,
                 "gate": "C40",
-                "delay": null,
+                "delay": 16,
                 "scheduled": "2025-05-14T20:00:00+00:00",
                 "estimated": "2025-05-14T20:00:00+00:00",
-                "actual": null,
-                "estimated_runway": null,
-                "actual_runway": null
+                "actual": "2025-05-14T20:16:00+00:00",
+                "estimated_runway": "2025-05-14T20:16:00+00:00",
+                "actual_runway": "2025-05-14T20:16:00+00:00"
             },
             "arrival": {
                 "airport": "Bahrain International",
                 "timezone": "Asia/Bahrain",
                 "iata": "BAH",
                 "icao": "OBBI",
-                "terminal": "4",
+                "terminal": "3",
                 "gate": "13",
                 "baggage": "A03",
                 "scheduled": "2025-05-14T20:50:00+00:00",
                 "delay": null,
-                "estimated": null,
-                "actual": null,
-                "estimated_runway": null,
-                "actual_runway": null
+                "estimated": "2025-05-14T20:42:00+00:00",
+                "actual": "2025-05-14T20:44:00+00:00",
+                "estimated_runway": "2025-05-14T20:44:00+00:00",
+                "actual_runway": "2025-05-14T20:44:00+00:00"
             },
             "airline": {
                 "name": "LATAM Airlines",
@@ -2419,7 +2783,7 @@
         },
         {
             "flight_date": "2025-05-14",
-            "flight_status": "scheduled",
+            "flight_status": "landed",
             "departure": {
                 "airport": "Doha International",
                 "timezone": "Asia/Qatar",
@@ -2427,27 +2791,27 @@
                 "icao": "OTHH",
                 "terminal": null,
                 "gate": "C40",
-                "delay": null,
+                "delay": 16,
                 "scheduled": "2025-05-14T20:00:00+00:00",
                 "estimated": "2025-05-14T20:00:00+00:00",
-                "actual": null,
-                "estimated_runway": null,
-                "actual_runway": null
+                "actual": "2025-05-14T20:16:00+00:00",
+                "estimated_runway": "2025-05-14T20:16:00+00:00",
+                "actual_runway": "2025-05-14T20:16:00+00:00"
             },
             "arrival": {
                 "airport": "Bahrain International",
                 "timezone": "Asia/Bahrain",
                 "iata": "BAH",
                 "icao": "OBBI",
-                "terminal": "4",
+                "terminal": "3",
                 "gate": "13",
                 "baggage": "A03",
                 "scheduled": "2025-05-14T20:50:00+00:00",
                 "delay": null,
-                "estimated": null,
-                "actual": null,
-                "estimated_runway": null,
-                "actual_runway": null
+                "estimated": "2025-05-14T20:42:00+00:00",
+                "actual": "2025-05-14T20:44:00+00:00",
+                "estimated_runway": "2025-05-14T20:44:00+00:00",
+                "actual_runway": "2025-05-14T20:44:00+00:00"
             },
             "airline": {
                 "name": "American Airlines",
@@ -2472,7 +2836,7 @@
         },
         {
             "flight_date": "2025-05-14",
-            "flight_status": "scheduled",
+            "flight_status": "landed",
             "departure": {
                 "airport": "Doha International",
                 "timezone": "Asia/Qatar",
@@ -2480,27 +2844,27 @@
                 "icao": "OTHH",
                 "terminal": null,
                 "gate": "C40",
-                "delay": null,
+                "delay": 16,
                 "scheduled": "2025-05-14T20:00:00+00:00",
                 "estimated": "2025-05-14T20:00:00+00:00",
-                "actual": null,
-                "estimated_runway": null,
-                "actual_runway": null
+                "actual": "2025-05-14T20:16:00+00:00",
+                "estimated_runway": "2025-05-14T20:16:00+00:00",
+                "actual_runway": "2025-05-14T20:16:00+00:00"
             },
             "arrival": {
                 "airport": "Bahrain International",
                 "timezone": "Asia/Bahrain",
                 "iata": "BAH",
                 "icao": "OBBI",
-                "terminal": "4",
+                "terminal": "3",
                 "gate": "13",
                 "baggage": "A03",
                 "scheduled": "2025-05-14T20:50:00+00:00",
                 "delay": null,
-                "estimated": null,
-                "actual": null,
-                "estimated_runway": null,
-                "actual_runway": null
+                "estimated": "2025-05-14T20:42:00+00:00",
+                "actual": "2025-05-14T20:44:00+00:00",
+                "estimated_runway": "2025-05-14T20:44:00+00:00",
+                "actual_runway": "2025-05-14T20:44:00+00:00"
             },
             "airline": {
                 "name": "JetBlue Airways",
@@ -2525,7 +2889,7 @@
         },
         {
             "flight_date": "2025-05-14",
-            "flight_status": "scheduled",
+            "flight_status": "landed",
             "departure": {
                 "airport": "Doha International",
                 "timezone": "Asia/Qatar",
@@ -2533,27 +2897,27 @@
                 "icao": "OTHH",
                 "terminal": null,
                 "gate": "C40",
-                "delay": null,
+                "delay": 16,
                 "scheduled": "2025-05-14T20:00:00+00:00",
                 "estimated": "2025-05-14T20:00:00+00:00",
-                "actual": null,
-                "estimated_runway": null,
-                "actual_runway": null
+                "actual": "2025-05-14T20:16:00+00:00",
+                "estimated_runway": "2025-05-14T20:16:00+00:00",
+                "actual_runway": "2025-05-14T20:16:00+00:00"
             },
             "arrival": {
                 "airport": "Bahrain International",
                 "timezone": "Asia/Bahrain",
                 "iata": "BAH",
                 "icao": "OBBI",
-                "terminal": "4",
+                "terminal": "3",
                 "gate": "13",
                 "baggage": "A03",
                 "scheduled": "2025-05-14T20:50:00+00:00",
                 "delay": null,
-                "estimated": null,
-                "actual": null,
-                "estimated_runway": null,
-                "actual_runway": null
+                "estimated": "2025-05-14T20:42:00+00:00",
+                "actual": "2025-05-14T20:44:00+00:00",
+                "estimated_runway": "2025-05-14T20:44:00+00:00",
+                "actual_runway": "2025-05-14T20:44:00+00:00"
             },
             "airline": {
                 "name": "British Airways",
@@ -2578,7 +2942,7 @@
         },
         {
             "flight_date": "2025-05-14",
-            "flight_status": "scheduled",
+            "flight_status": "landed",
             "departure": {
                 "airport": "Doha International",
                 "timezone": "Asia/Qatar",
@@ -2586,27 +2950,27 @@
                 "icao": "OTHH",
                 "terminal": null,
                 "gate": "C40",
-                "delay": null,
+                "delay": 16,
                 "scheduled": "2025-05-14T20:00:00+00:00",
                 "estimated": "2025-05-14T20:00:00+00:00",
-                "actual": null,
-                "estimated_runway": null,
-                "actual_runway": null
+                "actual": "2025-05-14T20:16:00+00:00",
+                "estimated_runway": "2025-05-14T20:16:00+00:00",
+                "actual_runway": "2025-05-14T20:16:00+00:00"
             },
             "arrival": {
                 "airport": "Bahrain International",
                 "timezone": "Asia/Bahrain",
                 "iata": "BAH",
                 "icao": "OBBI",
-                "terminal": "4",
+                "terminal": "3",
                 "gate": "13",
                 "baggage": "A03",
                 "scheduled": "2025-05-14T20:50:00+00:00",
                 "delay": null,
-                "estimated": null,
-                "actual": null,
-                "estimated_runway": null,
-                "actual_runway": null
+                "estimated": "2025-05-14T20:42:00+00:00",
+                "actual": "2025-05-14T20:44:00+00:00",
+                "estimated_runway": "2025-05-14T20:44:00+00:00",
+                "actual_runway": "2025-05-14T20:44:00+00:00"
             },
             "airline": {
                 "name": "Virgin Australia",
@@ -2631,7 +2995,7 @@
         },
         {
             "flight_date": "2025-05-14",
-            "flight_status": "scheduled",
+            "flight_status": "landed",
             "departure": {
                 "airport": "Doha International",
                 "timezone": "Asia/Qatar",
@@ -2639,27 +3003,27 @@
                 "icao": "OTHH",
                 "terminal": null,
                 "gate": "C40",
-                "delay": null,
+                "delay": 16,
                 "scheduled": "2025-05-14T20:00:00+00:00",
                 "estimated": "2025-05-14T20:00:00+00:00",
-                "actual": null,
-                "estimated_runway": null,
-                "actual_runway": null
+                "actual": "2025-05-14T20:16:00+00:00",
+                "estimated_runway": "2025-05-14T20:16:00+00:00",
+                "actual_runway": "2025-05-14T20:16:00+00:00"
             },
             "arrival": {
                 "airport": "Bahrain International",
                 "timezone": "Asia/Bahrain",
                 "iata": "BAH",
                 "icao": "OBBI",
-                "terminal": "4",
+                "terminal": "3",
                 "gate": "13",
                 "baggage": "A03",
                 "scheduled": "2025-05-14T20:50:00+00:00",
                 "delay": null,
-                "estimated": null,
-                "actual": null,
-                "estimated_runway": null,
-                "actual_runway": null
+                "estimated": "2025-05-14T20:42:00+00:00",
+                "actual": "2025-05-14T20:44:00+00:00",
+                "estimated_runway": "2025-05-14T20:44:00+00:00",
+                "actual_runway": "2025-05-14T20:44:00+00:00"
             },
             "airline": {
                 "name": "AlphaSky",
@@ -2684,7 +3048,7 @@
         },
         {
             "flight_date": "2025-05-14",
-            "flight_status": "scheduled",
+            "flight_status": "landed",
             "departure": {
                 "airport": "Doha International",
                 "timezone": "Asia/Qatar",
@@ -2692,27 +3056,27 @@
                 "icao": "OTHH",
                 "terminal": null,
                 "gate": "C40",
-                "delay": null,
+                "delay": 16,
                 "scheduled": "2025-05-14T20:00:00+00:00",
                 "estimated": "2025-05-14T20:00:00+00:00",
-                "actual": null,
-                "estimated_runway": null,
-                "actual_runway": null
+                "actual": "2025-05-14T20:16:00+00:00",
+                "estimated_runway": "2025-05-14T20:16:00+00:00",
+                "actual_runway": "2025-05-14T20:16:00+00:00"
             },
             "arrival": {
                 "airport": "Bahrain International",
                 "timezone": "Asia/Bahrain",
                 "iata": "BAH",
                 "icao": "OBBI",
-                "terminal": "4",
+                "terminal": "3",
                 "gate": "13",
                 "baggage": "A03",
                 "scheduled": "2025-05-14T20:50:00+00:00",
                 "delay": null,
-                "estimated": null,
-                "actual": null,
-                "estimated_runway": null,
-                "actual_runway": null
+                "estimated": "2025-05-14T20:42:00+00:00",
+                "actual": "2025-05-14T20:44:00+00:00",
+                "estimated_runway": "2025-05-14T20:44:00+00:00",
+                "actual_runway": "2025-05-14T20:44:00+00:00"
             },
             "airline": {
                 "name": "Malaysia Airlines",
@@ -2737,7 +3101,7 @@
         },
         {
             "flight_date": "2025-05-14",
-            "flight_status": "scheduled",
+            "flight_status": "landed",
             "departure": {
                 "airport": "Doha International",
                 "timezone": "Asia/Qatar",
@@ -2745,27 +3109,27 @@
                 "icao": "OTHH",
                 "terminal": null,
                 "gate": "C40",
-                "delay": null,
+                "delay": 16,
                 "scheduled": "2025-05-14T20:00:00+00:00",
                 "estimated": "2025-05-14T20:00:00+00:00",
-                "actual": null,
-                "estimated_runway": null,
-                "actual_runway": null
+                "actual": "2025-05-14T20:16:00+00:00",
+                "estimated_runway": "2025-05-14T20:16:00+00:00",
+                "actual_runway": "2025-05-14T20:16:00+00:00"
             },
             "arrival": {
                 "airport": "Bahrain International",
                 "timezone": "Asia/Bahrain",
                 "iata": "BAH",
                 "icao": "OBBI",
-                "terminal": "4",
+                "terminal": "3",
                 "gate": "13",
                 "baggage": "A03",
                 "scheduled": "2025-05-14T20:50:00+00:00",
                 "delay": null,
-                "estimated": null,
-                "actual": null,
-                "estimated_runway": null,
-                "actual_runway": null
+                "estimated": "2025-05-14T20:42:00+00:00",
+                "actual": "2025-05-14T20:44:00+00:00",
+                "estimated_runway": "2025-05-14T20:44:00+00:00",
+                "actual_runway": "2025-05-14T20:44:00+00:00"
             },
             "airline": {
                 "name": "Iberia",
@@ -2790,7 +3154,7 @@
         },
         {
             "flight_date": "2025-05-14",
-            "flight_status": "scheduled",
+            "flight_status": "active",
             "departure": {
                 "airport": "Alama Iqbal International",
                 "timezone": "Asia/Karachi",
@@ -2798,24 +3162,24 @@
                 "icao": "OPLA",
                 "terminal": "T1",
                 "gate": "23",
-                "delay": null,
+                "delay": 13,
                 "scheduled": "2025-05-14T22:00:00+00:00",
                 "estimated": "2025-05-14T22:00:00+00:00",
-                "actual": null,
-                "estimated_runway": null,
-                "actual_runway": null
+                "actual": "2025-05-14T22:13:00+00:00",
+                "estimated_runway": "2025-05-14T22:13:00+00:00",
+                "actual_runway": "2025-05-14T22:13:00+00:00"
             },
             "arrival": {
                 "airport": "Bahrain International",
                 "timezone": "Asia/Bahrain",
                 "iata": "BAH",
                 "icao": "OBBI",
-                "terminal": "4",
+                "terminal": "3",
                 "gate": "A4",
                 "baggage": "A06",
                 "scheduled": "2025-05-14T23:55:00+00:00",
                 "delay": null,
-                "estimated": null,
+                "estimated": "2025-05-14T23:45:00+00:00",
                 "actual": null,
                 "estimated_runway": null,
                 "actual_runway": null
@@ -2838,47 +3202,47 @@
                 "icao24": "894076"
             },
             "live": {
-                "updated": "2025-05-14T17:34:05+00:00",
-                "latitude": 30.2702,
-                "longitude": 72.5317,
-                "altitude": 8191.5,
-                "direction": 228,
-                "speed_horizontal": 872.292,
+                "updated": "2025-05-14T18:41:47+00:00",
+                "latitude": 26.3113,
+                "longitude": 64.7729,
+                "altitude": 9144,
+                "direction": 239,
+                "speed_horizontal": 798.212,
                 "speed_vertical": 0,
                 "is_ground": false
             }
         },
         {
             "flight_date": "2025-05-14",
-            "flight_status": "scheduled",
+            "flight_status": "landed",
             "departure": {
                 "airport": "Abu Dhabi International",
                 "timezone": "Asia/Dubai",
                 "iata": "AUH",
                 "icao": "OMAA",
-                "terminal": "A",
+                "terminal": "TA",
                 "gate": "B22",
-                "delay": 23,
+                "delay": 14,
                 "scheduled": "2025-05-14T20:50:00+00:00",
                 "estimated": "2025-05-14T20:50:00+00:00",
-                "actual": null,
-                "estimated_runway": null,
-                "actual_runway": null
+                "actual": "2025-05-14T21:04:00+00:00",
+                "estimated_runway": "2025-05-14T21:04:00+00:00",
+                "actual_runway": "2025-05-14T21:04:00+00:00"
             },
             "arrival": {
                 "airport": "Bahrain International",
                 "timezone": "Asia/Bahrain",
                 "iata": "BAH",
                 "icao": "OBBI",
-                "terminal": "4",
+                "terminal": "3",
                 "gate": "12B",
                 "baggage": "A05",
                 "scheduled": "2025-05-14T21:05:00+00:00",
                 "delay": null,
-                "estimated": null,
-                "actual": null,
-                "estimated_runway": null,
-                "actual_runway": null
+                "estimated": "2025-05-14T20:51:00+00:00",
+                "actual": "2025-05-14T20:51:00+00:00",
+                "estimated_runway": "2025-05-14T20:51:00+00:00",
+                "actual_runway": "2025-05-14T20:51:00+00:00"
             },
             "airline": {
                 "name": "Etihad Airways",
@@ -2897,48 +3261,39 @@
                 "icao": "A320",
                 "icao24": "8961EA"
             },
-            "live": {
-                "updated": "2025-05-14T17:33:56+00:00",
-                "latitude": 26.3526,
-                "longitude": 51.5817,
-                "altitude": 5181.6,
-                "direction": 295,
-                "speed_horizontal": 740.8,
-                "speed_vertical": 0,
-                "is_ground": false
-            }
+            "live": null
         },
         {
             "flight_date": "2025-05-14",
-            "flight_status": "scheduled",
+            "flight_status": "landed",
             "departure": {
                 "airport": "Abu Dhabi International",
                 "timezone": "Asia/Dubai",
                 "iata": "AUH",
                 "icao": "OMAA",
-                "terminal": "A",
+                "terminal": "TA",
                 "gate": "B22",
-                "delay": 23,
+                "delay": 14,
                 "scheduled": "2025-05-14T20:50:00+00:00",
                 "estimated": "2025-05-14T20:50:00+00:00",
-                "actual": null,
-                "estimated_runway": null,
-                "actual_runway": null
+                "actual": "2025-05-14T21:04:00+00:00",
+                "estimated_runway": "2025-05-14T21:04:00+00:00",
+                "actual_runway": "2025-05-14T21:04:00+00:00"
             },
             "arrival": {
                 "airport": "Bahrain International",
                 "timezone": "Asia/Bahrain",
                 "iata": "BAH",
                 "icao": "OBBI",
-                "terminal": "4",
+                "terminal": "3",
                 "gate": "12B",
                 "baggage": "A05",
                 "scheduled": "2025-05-14T21:05:00+00:00",
                 "delay": null,
-                "estimated": null,
-                "actual": null,
-                "estimated_runway": null,
-                "actual_runway": null
+                "estimated": "2025-05-14T20:51:00+00:00",
+                "actual": "2025-05-14T20:51:00+00:00",
+                "estimated_runway": "2025-05-14T20:51:00+00:00",
+                "actual_runway": "2025-05-14T20:51:00+00:00"
             },
             "airline": {
                 "name": "TAP Air Portugal",
@@ -2963,35 +3318,35 @@
         },
         {
             "flight_date": "2025-05-14",
-            "flight_status": "scheduled",
+            "flight_status": "landed",
             "departure": {
                 "airport": "Abu Dhabi International",
                 "timezone": "Asia/Dubai",
                 "iata": "AUH",
                 "icao": "OMAA",
-                "terminal": "A",
+                "terminal": "TA",
                 "gate": "B22",
-                "delay": 23,
+                "delay": 14,
                 "scheduled": "2025-05-14T20:50:00+00:00",
                 "estimated": "2025-05-14T20:50:00+00:00",
-                "actual": null,
-                "estimated_runway": null,
-                "actual_runway": null
+                "actual": "2025-05-14T21:04:00+00:00",
+                "estimated_runway": "2025-05-14T21:04:00+00:00",
+                "actual_runway": "2025-05-14T21:04:00+00:00"
             },
             "arrival": {
                 "airport": "Bahrain International",
                 "timezone": "Asia/Bahrain",
                 "iata": "BAH",
                 "icao": "OBBI",
-                "terminal": "4",
+                "terminal": "3",
                 "gate": "12B",
                 "baggage": "A05",
                 "scheduled": "2025-05-14T21:05:00+00:00",
                 "delay": null,
-                "estimated": null,
-                "actual": null,
-                "estimated_runway": null,
-                "actual_runway": null
+                "estimated": "2025-05-14T20:51:00+00:00",
+                "actual": "2025-05-14T20:51:00+00:00",
+                "estimated_runway": "2025-05-14T20:51:00+00:00",
+                "actual_runway": "2025-05-14T20:51:00+00:00"
             },
             "airline": {
                 "name": "Gulf Air",
@@ -3036,7 +3391,7 @@
                 "timezone": "Asia/Bahrain",
                 "iata": "BAH",
                 "icao": "OBBI",
-                "terminal": "4",
+                "terminal": "3",
                 "gate": "15",
                 "baggage": "A06",
                 "scheduled": "2025-05-14T19:30:00+00:00",
@@ -3069,7 +3424,7 @@
         },
         {
             "flight_date": "2025-05-14",
-            "flight_status": "scheduled",
+            "flight_status": "active",
             "departure": {
                 "airport": "Indira Gandhi International",
                 "timezone": "Asia/Kolkata",
@@ -3089,12 +3444,12 @@
                 "timezone": "Asia/Bahrain",
                 "iata": "BAH",
                 "icao": "OBBI",
-                "terminal": "4",
+                "terminal": "3",
                 "gate": "21A",
                 "baggage": "A04",
                 "scheduled": "2025-05-14T23:35:00+00:00",
                 "delay": null,
-                "estimated": null,
+                "estimated": "2025-05-14T23:35:00+00:00",
                 "actual": null,
                 "estimated_runway": null,
                 "actual_runway": null
@@ -3117,19 +3472,19 @@
                 "icao24": "8940A3"
             },
             "live": {
-                "updated": "2025-05-14T17:34:05+00:00",
-                "latitude": 28.4539,
-                "longitude": 71.7352,
-                "altitude": 8534.4,
-                "direction": 266,
-                "speed_horizontal": 783.396,
+                "updated": "2025-05-14T18:41:48+00:00",
+                "latitude": 25.384,
+                "longitude": 63.4084,
+                "altitude": 10363.2,
+                "direction": 242,
+                "speed_horizontal": 803.768,
                 "speed_vertical": 0,
                 "is_ground": false
             }
         },
         {
             "flight_date": "2025-05-14",
-            "flight_status": "scheduled",
+            "flight_status": "active",
             "departure": {
                 "airport": "Bangalore International Airport",
                 "timezone": "Asia/Kolkata",
@@ -3137,24 +3492,24 @@
                 "icao": "VOBL",
                 "terminal": "2",
                 "gate": "C3",
-                "delay": null,
+                "delay": 9,
                 "scheduled": "2025-05-14T22:20:00+00:00",
                 "estimated": "2025-05-14T22:20:00+00:00",
-                "actual": null,
-                "estimated_runway": null,
-                "actual_runway": null
+                "actual": "2025-05-14T22:28:00+00:00",
+                "estimated_runway": "2025-05-14T22:28:00+00:00",
+                "actual_runway": "2025-05-14T22:28:00+00:00"
             },
             "arrival": {
                 "airport": "Bahrain International",
                 "timezone": "Asia/Bahrain",
                 "iata": "BAH",
                 "icao": "OBBI",
-                "terminal": "4",
+                "terminal": "3",
                 "gate": "16A",
                 "baggage": "7T2",
                 "scheduled": "2025-05-15T00:30:00+00:00",
                 "delay": null,
-                "estimated": null,
+                "estimated": "2025-05-15T00:07:00+00:00",
                 "actual": null,
                 "estimated_runway": null,
                 "actual_runway": null
@@ -3177,12 +3532,12 @@
                 "icao24": "8940CE"
             },
             "live": {
-                "updated": "2025-05-14T17:34:11+00:00",
-                "latitude": 15.2414,
-                "longitude": 73.9961,
-                "altitude": 9745.98,
-                "direction": 307,
-                "speed_horizontal": 872.292,
+                "updated": "2025-05-14T18:42:19+00:00",
+                "latitude": 19.9917,
+                "longitude": 66.148,
+                "altitude": 9753.6,
+                "direction": 297,
+                "speed_horizontal": 859.328,
                 "speed_vertical": 0,
                 "is_ground": false
             }
@@ -3209,12 +3564,12 @@
                 "timezone": "Asia/Bahrain",
                 "iata": "BAH",
                 "icao": "OBBI",
-                "terminal": "4",
+                "terminal": "3",
                 "gate": "21B",
                 "baggage": "1",
                 "scheduled": "2025-05-14T23:00:00+00:00",
                 "delay": null,
-                "estimated": "2025-05-14T22:39:00+00:00",
+                "estimated": "2025-05-14T22:31:00+00:00",
                 "actual": null,
                 "estimated_runway": null,
                 "actual_runway": null
@@ -3237,19 +3592,19 @@
                 "icao24": "8940C2"
             },
             "live": {
-                "updated": "2025-05-14T17:34:04+00:00",
-                "latitude": 22.0335,
-                "longitude": 63.884,
-                "altitude": 10355.6,
-                "direction": 292,
-                "speed_horizontal": 864.884,
+                "updated": "2025-05-14T18:44:51+00:00",
+                "latitude": 25.1643,
+                "longitude": 54.8473,
+                "altitude": 10363.2,
+                "direction": 279.31,
+                "speed_horizontal": 812.628,
                 "speed_vertical": 0,
                 "is_ground": false
             }
         },
         {
             "flight_date": "2025-05-14",
-            "flight_status": "scheduled",
+            "flight_status": "active",
             "departure": {
                 "airport": "Chhatrapati Shivaji International (Sahar International)",
                 "timezone": "Asia/Kolkata",
@@ -3269,12 +3624,12 @@
                 "timezone": "Asia/Bahrain",
                 "iata": "BAH",
                 "icao": "OBBI",
-                "terminal": "4",
+                "terminal": "3",
                 "gate": "12A",
                 "baggage": "A06",
                 "scheduled": "2025-05-14T22:45:00+00:00",
                 "delay": null,
-                "estimated": null,
+                "estimated": "2025-05-14T22:39:00+00:00",
                 "actual": null,
                 "estimated_runway": null,
                 "actual_runway": null
@@ -3297,19 +3652,19 @@
                 "icao24": "801741"
             },
             "live": {
-                "updated": "2025-05-14T17:34:04+00:00",
-                "latitude": 21.6816,
-                "longitude": 64.7826,
-                "altitude": 9761.22,
-                "direction": 293,
-                "speed_horizontal": 833.4,
+                "updated": "2025-05-14T18:45:40+00:00",
+                "latitude": 24.688,
+                "longitude": 57.287,
+                "altitude": 10972.8,
+                "direction": 292,
+                "speed_horizontal": 844.512,
                 "speed_vertical": 0,
                 "is_ground": false
             }
         },
         {
             "flight_date": "2025-05-14",
-            "flight_status": "scheduled",
+            "flight_status": "landed",
             "departure": {
                 "airport": "Doha International",
                 "timezone": "Asia/Qatar",
@@ -3317,27 +3672,27 @@
                 "icao": "OTHH",
                 "terminal": null,
                 "gate": "C40",
-                "delay": null,
+                "delay": 16,
                 "scheduled": "2025-05-14T20:00:00+00:00",
                 "estimated": "2025-05-14T20:00:00+00:00",
-                "actual": null,
-                "estimated_runway": null,
-                "actual_runway": null
+                "actual": "2025-05-14T20:16:00+00:00",
+                "estimated_runway": "2025-05-14T20:16:00+00:00",
+                "actual_runway": "2025-05-14T20:16:00+00:00"
             },
             "arrival": {
                 "airport": "Bahrain International",
                 "timezone": "Asia/Bahrain",
                 "iata": "BAH",
                 "icao": "OBBI",
-                "terminal": "4",
+                "terminal": "3",
                 "gate": "13",
                 "baggage": "A03",
                 "scheduled": "2025-05-14T20:50:00+00:00",
                 "delay": null,
-                "estimated": null,
-                "actual": null,
-                "estimated_runway": null,
-                "actual_runway": null
+                "estimated": "2025-05-14T20:42:00+00:00",
+                "actual": "2025-05-14T20:44:00+00:00",
+                "estimated_runway": "2025-05-14T20:44:00+00:00",
+                "actual_runway": "2025-05-14T20:44:00+00:00"
             },
             "airline": {
                 "name": "Qatar Airways",
@@ -3356,16 +3711,7 @@
                 "icao": "B77W",
                 "icao24": "06A138"
             },
-            "live": {
-                "updated": "2025-05-14T17:33:57+00:00",
-                "latitude": 26.2386,
-                "longitude": 50.7036,
-                "altitude": 2461.26,
-                "direction": 294,
-                "speed_horizontal": 513.004,
-                "speed_vertical": 0,
-                "is_ground": false
-            }
+            "live": null
         },
         {
             "flight_date": "2025-05-14",
@@ -3389,15 +3735,15 @@
                 "timezone": "Asia/Bahrain",
                 "iata": "BAH",
                 "icao": "OBBI",
-                "terminal": "4",
+                "terminal": "3",
                 "gate": "14",
                 "baggage": "A05",
                 "scheduled": "2025-05-14T20:10:00+00:00",
                 "delay": null,
                 "estimated": "2025-05-14T19:51:00+00:00",
-                "actual": null,
-                "estimated_runway": null,
-                "actual_runway": null
+                "actual": "2025-05-14T19:52:00+00:00",
+                "estimated_runway": "2025-05-14T19:52:00+00:00",
+                "actual_runway": "2025-05-14T19:52:00+00:00"
             },
             "airline": {
                 "name": "Gulf Air",
@@ -3420,7 +3766,7 @@
         },
         {
             "flight_date": "2025-05-14",
-            "flight_status": "scheduled",
+            "flight_status": "active",
             "departure": {
                 "airport": "Sabiha Gokcen",
                 "timezone": "Europe/Istanbul",
@@ -3428,24 +3774,24 @@
                 "icao": "LTFJ",
                 "terminal": null,
                 "gate": "302B",
-                "delay": 15,
+                "delay": 20,
                 "scheduled": "2025-05-14T19:45:00+00:00",
                 "estimated": "2025-05-14T19:45:00+00:00",
-                "actual": null,
-                "estimated_runway": null,
-                "actual_runway": null
+                "actual": "2025-05-14T20:05:00+00:00",
+                "estimated_runway": "2025-05-14T20:05:00+00:00",
+                "actual_runway": "2025-05-14T20:05:00+00:00"
             },
             "arrival": {
                 "airport": "Bahrain International",
                 "timezone": "Asia/Bahrain",
                 "iata": "BAH",
                 "icao": "OBBI",
-                "terminal": "4",
+                "terminal": "3",
                 "gate": "14",
                 "baggage": "A02",
                 "scheduled": "2025-05-14T23:40:00+00:00",
                 "delay": null,
-                "estimated": null,
+                "estimated": "2025-05-14T23:28:00+00:00",
                 "actual": null,
                 "estimated_runway": null,
                 "actual_runway": null
@@ -3468,19 +3814,19 @@
                 "icao24": "4BA8F2"
             },
             "live": {
-                "updated": "2025-05-14T17:28:21+00:00",
-                "latitude": 40.1706,
-                "longitude": 32.3505,
-                "altitude": 11277.6,
-                "direction": 106.09,
-                "speed_horizontal": 915.552,
+                "updated": "2025-05-14T18:43:37+00:00",
+                "latitude": 37.0238,
+                "longitude": 44.0363,
+                "altitude": 11887.2,
+                "direction": 159,
+                "speed_horizontal": 770.432,
                 "speed_vertical": 0,
                 "is_ground": false
             }
         },
         {
             "flight_date": "2025-05-14",
-            "flight_status": "scheduled",
+            "flight_status": "active",
             "departure": {
                 "airport": "Thiruvananthapuram International",
                 "timezone": "Asia/Kolkata",
@@ -3488,24 +3834,24 @@
                 "icao": "VOTV",
                 "terminal": "TB",
                 "gate": "3",
-                "delay": null,
+                "delay": 5,
                 "scheduled": "2025-05-14T22:15:00+00:00",
                 "estimated": "2025-05-14T22:15:00+00:00",
-                "actual": null,
-                "estimated_runway": null,
-                "actual_runway": null
+                "actual": "2025-05-14T22:20:00+00:00",
+                "estimated_runway": "2025-05-14T22:20:00+00:00",
+                "actual_runway": "2025-05-14T22:20:00+00:00"
             },
             "arrival": {
                 "airport": "Bahrain International",
                 "timezone": "Asia/Bahrain",
                 "iata": "BAH",
                 "icao": "OBBI",
-                "terminal": "4",
+                "terminal": "3",
                 "gate": "19A",
                 "baggage": "A04",
                 "scheduled": "2025-05-15T00:35:00+00:00",
                 "delay": null,
-                "estimated": null,
+                "estimated": "2025-05-15T00:09:00+00:00",
                 "actual": null,
                 "estimated_runway": null,
                 "actual_runway": null
@@ -3528,19 +3874,19 @@
                 "icao24": "89405B"
             },
             "live": {
-                "updated": "2025-05-14T17:34:10+00:00",
-                "latitude": 11.6223,
-                "longitude": 72.5436,
-                "altitude": 9753.6,
-                "direction": 315,
-                "speed_horizontal": 885.256,
+                "updated": "2025-05-14T18:42:17+00:00",
+                "latitude": 16.969,
+                "longitude": 64.8477,
+                "altitude": 9761.22,
+                "direction": 306,
+                "speed_horizontal": 905.628,
                 "speed_vertical": 0,
                 "is_ground": false
             }
         },
         {
             "flight_date": "2025-05-14",
-            "flight_status": "scheduled",
+            "flight_status": "landed",
             "departure": {
                 "airport": "Dubai",
                 "timezone": "Asia/Dubai",
@@ -3548,27 +3894,27 @@
                 "icao": "OMDB",
                 "terminal": "1",
                 "gate": "D7",
-                "delay": null,
+                "delay": 29,
                 "scheduled": "2025-05-14T21:00:00+00:00",
                 "estimated": "2025-05-14T21:00:00+00:00",
-                "actual": null,
-                "estimated_runway": null,
-                "actual_runway": null
+                "actual": "2025-05-14T21:28:00+00:00",
+                "estimated_runway": "2025-05-14T21:28:00+00:00",
+                "actual_runway": "2025-05-14T21:28:00+00:00"
             },
             "arrival": {
                 "airport": "Bahrain International",
                 "timezone": "Asia/Bahrain",
                 "iata": "BAH",
                 "icao": "OBBI",
-                "terminal": "4",
+                "terminal": "3",
                 "gate": "15",
                 "baggage": "A06",
                 "scheduled": "2025-05-14T21:15:00+00:00",
-                "delay": null,
-                "estimated": null,
-                "actual": null,
-                "estimated_runway": null,
-                "actual_runway": null
+                "delay": 2,
+                "estimated": "2025-05-14T21:16:00+00:00",
+                "actual": "2025-05-14T21:17:00+00:00",
+                "estimated_runway": "2025-05-14T21:17:00+00:00",
+                "actual_runway": "2025-05-14T21:17:00+00:00"
             },
             "airline": {
                 "name": "Gulf Air",
@@ -3581,12 +3927,17 @@
                 "icao": "GFA511",
                 "codeshared": null
             },
-            "aircraft": null,
+            "aircraft": {
+                "registration": "A9C-TF",
+                "iata": "A20N",
+                "icao": "A20N",
+                "icao24": "89409D"
+            },
             "live": null
         },
         {
             "flight_date": "2025-05-14",
-            "flight_status": "scheduled",
+            "flight_status": "landed",
             "departure": {
                 "airport": "Dubai",
                 "timezone": "Asia/Dubai",
@@ -3594,27 +3945,27 @@
                 "icao": "OMDB",
                 "terminal": "2",
                 "gate": "F10",
-                "delay": 5,
+                "delay": 25,
                 "scheduled": "2025-05-14T20:45:00+00:00",
                 "estimated": "2025-05-14T20:45:00+00:00",
-                "actual": null,
-                "estimated_runway": null,
-                "actual_runway": null
+                "actual": "2025-05-14T21:09:00+00:00",
+                "estimated_runway": "2025-05-14T21:09:00+00:00",
+                "actual_runway": "2025-05-14T21:09:00+00:00"
             },
             "arrival": {
                 "airport": "Bahrain International",
                 "timezone": "Asia/Bahrain",
                 "iata": "BAH",
                 "icao": "OBBI",
-                "terminal": "4",
+                "terminal": "3",
                 "gate": "12A",
-                "baggage": "A04",
+                "baggage": "A07",
                 "scheduled": "2025-05-14T21:00:00+00:00",
-                "delay": null,
-                "estimated": null,
-                "actual": null,
-                "estimated_runway": null,
-                "actual_runway": null
+                "delay": 3,
+                "estimated": "2025-05-14T21:01:00+00:00",
+                "actual": "2025-05-14T21:03:00+00:00",
+                "estimated_runway": "2025-05-14T21:03:00+00:00",
+                "actual_runway": "2025-05-14T21:03:00+00:00"
             },
             "airline": {
                 "name": "flydubai",
@@ -3627,7 +3978,12 @@
                 "icao": "FDB25",
                 "codeshared": null
             },
-            "aircraft": null,
+            "aircraft": {
+                "registration": "A6-FKG",
+                "iata": "B38M",
+                "icao": "B38M",
+                "icao24": "8965D2"
+            },
             "live": null
         },
         {
@@ -3652,15 +4008,15 @@
                 "timezone": "Asia/Bahrain",
                 "iata": "BAH",
                 "icao": "OBBI",
-                "terminal": "4",
+                "terminal": "3",
                 "gate": "A1",
                 "baggage": "1",
                 "scheduled": "2025-05-14T20:00:00+00:00",
                 "delay": null,
-                "estimated": "2025-05-14T19:55:00+00:00",
-                "actual": null,
-                "estimated_runway": null,
-                "actual_runway": null
+                "estimated": "2025-05-14T19:58:00+00:00",
+                "actual": "2025-05-14T19:55:00+00:00",
+                "estimated_runway": "2025-05-14T19:55:00+00:00",
+                "actual_runway": "2025-05-14T19:55:00+00:00"
             },
             "airline": {
                 "name": "Gulf Air",
@@ -3683,7 +4039,7 @@
         },
         {
             "flight_date": "2025-05-14",
-            "flight_status": "active",
+            "flight_status": "landed",
             "departure": {
                 "airport": "Kuwait International",
                 "timezone": "Asia/Kuwait",
@@ -3703,15 +4059,15 @@
                 "timezone": "Asia/Bahrain",
                 "iata": "BAH",
                 "icao": "OBBI",
-                "terminal": "4",
+                "terminal": "3",
                 "gate": "A1",
                 "baggage": "1",
                 "scheduled": "2025-05-14T20:00:00+00:00",
                 "delay": null,
-                "estimated": "2025-05-14T19:55:00+00:00",
-                "actual": null,
-                "estimated_runway": null,
-                "actual_runway": null
+                "estimated": "2025-05-14T19:58:00+00:00",
+                "actual": "2025-05-14T19:55:00+00:00",
+                "estimated_runway": "2025-05-14T19:55:00+00:00",
+                "actual_runway": "2025-05-14T19:55:00+00:00"
             },
             "airline": {
                 "name": "Thai Airways International",
@@ -3756,15 +4112,15 @@
                 "timezone": "Asia/Bahrain",
                 "iata": "BAH",
                 "icao": "OBBI",
-                "terminal": "4",
+                "terminal": "3",
                 "gate": "12A",
                 "baggage": "A08",
                 "scheduled": "2025-05-14T19:30:00+00:00",
-                "delay": 48,
-                "estimated": "2025-05-14T20:18:00+00:00",
-                "actual": null,
-                "estimated_runway": null,
-                "actual_runway": null
+                "delay": 47,
+                "estimated": "2025-05-14T20:19:00+00:00",
+                "actual": "2025-05-14T20:17:00+00:00",
+                "estimated_runway": "2025-05-14T20:17:00+00:00",
+                "actual_runway": "2025-05-14T20:17:00+00:00"
             },
             "airline": {
                 "name": "Air Arabia",
@@ -3807,7 +4163,7 @@
                 "timezone": "Asia/Bahrain",
                 "iata": "BAH",
                 "icao": "OBBI",
-                "terminal": "4",
+                "terminal": "3",
                 "gate": "12B",
                 "baggage": "A07",
                 "scheduled": "2025-05-14T19:35:00+00:00",
@@ -3858,7 +4214,7 @@
                 "timezone": "Asia/Bahrain",
                 "iata": "BAH",
                 "icao": "OBBI",
-                "terminal": "4",
+                "terminal": "3",
                 "gate": "12B",
                 "baggage": "A07",
                 "scheduled": "2025-05-14T19:35:00+00:00",
@@ -3911,7 +4267,7 @@
                 "timezone": "Asia/Bahrain",
                 "iata": "BAH",
                 "icao": "OBBI",
-                "terminal": "4",
+                "terminal": "3",
                 "gate": "12B",
                 "baggage": "A07",
                 "scheduled": "2025-05-14T19:35:00+00:00",
@@ -3944,7 +4300,7 @@
         },
         {
             "flight_date": "2025-05-14",
-            "flight_status": "active",
+            "flight_status": "landed",
             "departure": {
                 "airport": "King Fahd International Airport",
                 "timezone": "Asia/Riyadh",
@@ -3964,7 +4320,7 @@
                 "timezone": "Asia/Bahrain",
                 "iata": "BAH",
                 "icao": "OBBI",
-                "terminal": "4",
+                "terminal": "3",
                 "gate": "14",
                 "baggage": "A01",
                 "scheduled": "2025-05-14T19:30:00+00:00",
@@ -3991,16 +4347,7 @@
                 "icao": "A321",
                 "icao24": "89407A"
             },
-            "live": {
-                "updated": "2025-05-14T16:46:33+00:00",
-                "latitude": 26.2827,
-                "longitude": 50.6132,
-                "altitude": 121.92,
-                "direction": 122,
-                "speed_horizontal": 270.392,
-                "speed_vertical": 0,
-                "is_ground": false
-            }
+            "live": null
         },
         {
             "flight_date": "2025-05-14",
@@ -4024,7 +4371,7 @@
                 "timezone": "Asia/Bahrain",
                 "iata": "BAH",
                 "icao": "OBBI",
-                "terminal": "4",
+                "terminal": "3",
                 "gate": "15",
                 "baggage": "A06",
                 "scheduled": "2025-05-14T19:30:00+00:00",
@@ -4126,7 +4473,7 @@
                 "timezone": "Asia/Bahrain",
                 "iata": "BAH",
                 "icao": "OBBI",
-                "terminal": "4",
+                "terminal": "3",
                 "gate": "13",
                 "baggage": "A06",
                 "scheduled": "2025-05-14T18:30:00+00:00",
@@ -4179,7 +4526,7 @@
                 "timezone": "Asia/Bahrain",
                 "iata": "BAH",
                 "icao": "OBBI",
-                "terminal": "4",
+                "terminal": "3",
                 "gate": "12B",
                 "baggage": "A06",
                 "scheduled": "2025-05-14T17:30:00+00:00",
@@ -4232,7 +4579,7 @@
                 "timezone": "Asia/Bahrain",
                 "iata": "BAH",
                 "icao": "OBBI",
-                "terminal": "4",
+                "terminal": "3",
                 "gate": "17B",
                 "baggage": "A04",
                 "scheduled": "2025-05-14T17:20:00+00:00",
@@ -4285,12 +4632,12 @@
                 "timezone": "Asia/Bahrain",
                 "iata": "BAH",
                 "icao": "OBBI",
-                "terminal": "4",
+                "terminal": "3",
                 "gate": "14",
                 "baggage": "A05",
                 "scheduled": "2025-05-14T22:20:00+00:00",
                 "delay": null,
-                "estimated": "2025-05-14T22:03:00+00:00",
+                "estimated": "2025-05-14T22:05:00+00:00",
                 "actual": null,
                 "estimated_runway": null,
                 "actual_runway": null
@@ -4338,15 +4685,15 @@
                 "timezone": "Asia/Bahrain",
                 "iata": "BAH",
                 "icao": "OBBI",
-                "terminal": "4",
+                "terminal": "3",
                 "gate": "A2",
                 "baggage": "A02",
                 "scheduled": "2025-05-14T20:20:00+00:00",
                 "delay": null,
-                "estimated": "2025-05-14T19:48:00+00:00",
-                "actual": null,
-                "estimated_runway": null,
-                "actual_runway": null
+                "estimated": "2025-05-14T19:49:00+00:00",
+                "actual": "2025-05-14T19:49:00+00:00",
+                "estimated_runway": "2025-05-14T19:49:00+00:00",
+                "actual_runway": "2025-05-14T19:49:00+00:00"
             },
             "airline": {
                 "name": "Gulf Air",
@@ -4369,7 +4716,7 @@
         },
         {
             "flight_date": "2025-05-14",
-            "flight_status": "active",
+            "flight_status": "landed",
             "departure": {
                 "airport": "Queen Alia International",
                 "timezone": "Asia/Amman",
@@ -4389,15 +4736,15 @@
                 "timezone": "Asia/Bahrain",
                 "iata": "BAH",
                 "icao": "OBBI",
-                "terminal": "4",
+                "terminal": "3",
                 "gate": "A2",
                 "baggage": "A02",
                 "scheduled": "2025-05-14T20:20:00+00:00",
                 "delay": null,
-                "estimated": "2025-05-14T19:48:00+00:00",
-                "actual": null,
-                "estimated_runway": null,
-                "actual_runway": null
+                "estimated": "2025-05-14T19:49:00+00:00",
+                "actual": "2025-05-14T19:49:00+00:00",
+                "estimated_runway": "2025-05-14T19:49:00+00:00",
+                "actual_runway": "2025-05-14T19:49:00+00:00"
             },
             "airline": {
                 "name": "Thai Airways International",
@@ -4422,7 +4769,7 @@
         },
         {
             "flight_date": "2025-05-14",
-            "flight_status": "active",
+            "flight_status": "landed",
             "departure": {
                 "airport": "Queen Alia International",
                 "timezone": "Asia/Amman",
@@ -4442,15 +4789,15 @@
                 "timezone": "Asia/Bahrain",
                 "iata": "BAH",
                 "icao": "OBBI",
-                "terminal": "4",
+                "terminal": "3",
                 "gate": "A2",
                 "baggage": "A02",
                 "scheduled": "2025-05-14T20:20:00+00:00",
                 "delay": null,
-                "estimated": "2025-05-14T19:48:00+00:00",
-                "actual": null,
-                "estimated_runway": null,
-                "actual_runway": null
+                "estimated": "2025-05-14T19:49:00+00:00",
+                "actual": "2025-05-14T19:49:00+00:00",
+                "estimated_runway": "2025-05-14T19:49:00+00:00",
+                "actual_runway": "2025-05-14T19:49:00+00:00"
             },
             "airline": {
                 "name": "Royal Jordanian",
@@ -4495,12 +4842,12 @@
                 "timezone": "Asia/Bahrain",
                 "iata": "BAH",
                 "icao": "OBBI",
-                "terminal": "4",
+                "terminal": "3",
                 "gate": "14",
                 "baggage": "A05",
                 "scheduled": "2025-05-14T22:20:00+00:00",
                 "delay": null,
-                "estimated": "2025-05-14T22:03:00+00:00",
+                "estimated": "2025-05-14T22:05:00+00:00",
                 "actual": null,
                 "estimated_runway": null,
                 "actual_runway": null
@@ -4523,12 +4870,12 @@
                 "icao24": "80161C"
             },
             "live": {
-                "updated": "2025-05-14T17:34:05+00:00",
-                "latitude": 23.6286,
-                "longitude": 59.9739,
-                "altitude": 11590,
-                "direction": 291,
-                "speed_horizontal": 822.288,
+                "updated": "2025-05-14T18:41:31+00:00",
+                "latitude": 26.3447,
+                "longitude": 51.6003,
+                "altitude": 4594.86,
+                "direction": 296,
+                "speed_horizontal": 718.576,
                 "speed_vertical": 0,
                 "is_ground": false
             }
@@ -4543,7 +4890,7 @@
                 "icao": "OERK",
                 "terminal": "T1",
                 "gate": "106",
-                "delay": 26,
+                "delay": 48,
                 "scheduled": "2025-05-14T18:00:00+00:00",
                 "estimated": "2025-05-14T18:00:00+00:00",
                 "actual": "2025-05-14T18:48:00+00:00",
@@ -4555,15 +4902,15 @@
                 "timezone": "Asia/Bahrain",
                 "iata": "BAH",
                 "icao": "OBBI",
-                "terminal": "4",
+                "terminal": "3",
                 "gate": "13",
                 "baggage": "A03",
                 "scheduled": "2025-05-14T19:15:00+00:00",
-                "delay": 24,
+                "delay": 26,
                 "estimated": "2025-05-14T19:39:00+00:00",
-                "actual": null,
-                "estimated_runway": null,
-                "actual_runway": null
+                "actual": "2025-05-14T19:41:00+00:00",
+                "estimated_runway": "2025-05-14T19:41:00+00:00",
+                "actual_runway": "2025-05-14T19:41:00+00:00"
             },
             "airline": {
                 "name": "flynas",
@@ -4606,7 +4953,7 @@
                 "timezone": "Asia/Bahrain",
                 "iata": "BAH",
                 "icao": "OBBI",
-                "terminal": "4",
+                "terminal": "3",
                 "gate": "12",
                 "baggage": "A02",
                 "scheduled": "2025-05-14T19:15:00+00:00",
@@ -4637,7 +4984,7 @@
         },
         {
             "flight_date": "2025-05-14",
-            "flight_status": "active",
+            "flight_status": "landed",
             "departure": {
                 "airport": "Mal\u00e9 International Airport",
                 "timezone": "Indian/Maldives",
@@ -4657,15 +5004,15 @@
                 "timezone": "Asia/Bahrain",
                 "iata": "BAH",
                 "icao": "OBBI",
-                "terminal": "4",
+                "terminal": "3",
                 "gate": "15",
                 "baggage": "A03",
                 "scheduled": "2025-05-14T22:15:00+00:00",
                 "delay": null,
-                "estimated": "2025-05-14T21:37:00+00:00",
-                "actual": null,
-                "estimated_runway": null,
-                "actual_runway": null
+                "estimated": "2025-05-14T21:30:00+00:00",
+                "actual": "2025-05-14T21:32:00+00:00",
+                "estimated_runway": "2025-05-14T21:32:00+00:00",
+                "actual_runway": "2025-05-14T21:32:00+00:00"
             },
             "airline": {
                 "name": "Gulf Air",
@@ -4684,20 +5031,11 @@
                 "icao": "A21N",
                 "icao24": "8940C3"
             },
-            "live": {
-                "updated": "2025-05-14T17:29:50+00:00",
-                "latitude": 23.3262,
-                "longitude": 56.6223,
-                "altitude": 10348,
-                "direction": 296.97,
-                "speed_horizontal": 820.8,
-                "speed_vertical": 2.34,
-                "is_ground": false
-            }
+            "live": null
         },
         {
             "flight_date": "2025-05-14",
-            "flight_status": "active",
+            "flight_status": "landed",
             "departure": {
                 "airport": "Mal\u00e9 International Airport",
                 "timezone": "Indian/Maldives",
@@ -4717,15 +5055,15 @@
                 "timezone": "Asia/Bahrain",
                 "iata": "BAH",
                 "icao": "OBBI",
-                "terminal": "4",
+                "terminal": "3",
                 "gate": "15",
                 "baggage": "A03",
                 "scheduled": "2025-05-14T22:15:00+00:00",
                 "delay": null,
-                "estimated": "2025-05-14T21:37:00+00:00",
-                "actual": null,
-                "estimated_runway": null,
-                "actual_runway": null
+                "estimated": "2025-05-14T21:30:00+00:00",
+                "actual": "2025-05-14T21:32:00+00:00",
+                "estimated_runway": "2025-05-14T21:32:00+00:00",
+                "actual_runway": "2025-05-14T21:32:00+00:00"
             },
             "airline": {
                 "name": "SriLankan Airlines",
@@ -4770,15 +5108,15 @@
                 "timezone": "Asia/Bahrain",
                 "iata": "BAH",
                 "icao": "OBBI",
-                "terminal": "4",
+                "terminal": "3",
                 "gate": "14",
                 "baggage": "A06",
                 "scheduled": "2025-05-14T20:15:00+00:00",
                 "delay": null,
                 "estimated": "2025-05-14T19:32:00+00:00",
-                "actual": null,
-                "estimated_runway": null,
-                "actual_runway": null
+                "actual": "2025-05-14T19:34:00+00:00",
+                "estimated_runway": "2025-05-14T19:34:00+00:00",
+                "actual_runway": "2025-05-14T19:34:00+00:00"
             },
             "airline": {
                 "name": "Gulf Air",
@@ -4801,7 +5139,7 @@
         },
         {
             "flight_date": "2025-05-14",
-            "flight_status": "active",
+            "flight_status": "landed",
             "departure": {
                 "airport": "Cairo International Airport",
                 "timezone": "Africa/Cairo",
@@ -4821,15 +5159,15 @@
                 "timezone": "Asia/Bahrain",
                 "iata": "BAH",
                 "icao": "OBBI",
-                "terminal": "4",
+                "terminal": "3",
                 "gate": "14",
                 "baggage": "A06",
                 "scheduled": "2025-05-14T20:15:00+00:00",
                 "delay": null,
                 "estimated": "2025-05-14T19:32:00+00:00",
-                "actual": null,
-                "estimated_runway": null,
-                "actual_runway": null
+                "actual": "2025-05-14T19:34:00+00:00",
+                "estimated_runway": "2025-05-14T19:34:00+00:00",
+                "actual_runway": "2025-05-14T19:34:00+00:00"
             },
             "airline": {
                 "name": "Thai Airways International",
@@ -4851,387 +5189,6 @@
             },
             "aircraft": null,
             "live": null
-        },
-        {
-            "flight_date": "2025-05-14",
-            "flight_status": "active",
-            "departure": {
-                "airport": "Cairo International Airport",
-                "timezone": "Africa/Cairo",
-                "iata": "CAI",
-                "icao": "HECA",
-                "terminal": "2",
-                "gate": "E12",
-                "delay": 3,
-                "scheduled": "2025-05-14T17:15:00+00:00",
-                "estimated": "2025-05-14T17:15:00+00:00",
-                "actual": "2025-05-14T17:18:00+00:00",
-                "estimated_runway": "2025-05-14T17:18:00+00:00",
-                "actual_runway": "2025-05-14T17:18:00+00:00"
-            },
-            "arrival": {
-                "airport": "Bahrain International",
-                "timezone": "Asia/Bahrain",
-                "iata": "BAH",
-                "icao": "OBBI",
-                "terminal": "4",
-                "gate": "14",
-                "baggage": "A06",
-                "scheduled": "2025-05-14T20:15:00+00:00",
-                "delay": null,
-                "estimated": "2025-05-14T19:32:00+00:00",
-                "actual": null,
-                "estimated_runway": null,
-                "actual_runway": null
-            },
-            "airline": {
-                "name": "EgyptAir",
-                "iata": "MS",
-                "icao": "MSR"
-            },
-            "flight": {
-                "number": "8016",
-                "iata": "MS8016",
-                "icao": "MSR8016",
-                "codeshared": {
-                    "airline_name": "gulf air",
-                    "airline_iata": "gf",
-                    "airline_icao": "gfa",
-                    "flight_number": "70",
-                    "flight_iata": "gf70",
-                    "flight_icao": "gfa70"
-                }
-            },
-            "aircraft": null,
-            "live": null
-        },
-        {
-            "flight_date": "2025-05-14",
-            "flight_status": "active",
-            "departure": {
-                "airport": "Istanbul Airport",
-                "timezone": "Europe/Istanbul",
-                "iata": "IST",
-                "icao": "LTFM",
-                "terminal": "1",
-                "gate": "C4",
-                "delay": 29,
-                "scheduled": "2025-05-14T16:10:00+00:00",
-                "estimated": "2025-05-14T16:10:00+00:00",
-                "actual": "2025-05-14T16:38:00+00:00",
-                "estimated_runway": "2025-05-14T16:38:00+00:00",
-                "actual_runway": "2025-05-14T16:38:00+00:00"
-            },
-            "arrival": {
-                "airport": "Bahrain International",
-                "timezone": "Asia/Bahrain",
-                "iata": "BAH",
-                "icao": "OBBI",
-                "terminal": "4",
-                "gate": "16",
-                "baggage": "A07",
-                "scheduled": "2025-05-14T20:20:00+00:00",
-                "delay": null,
-                "estimated": "2025-05-14T20:14:00+00:00",
-                "actual": null,
-                "estimated_runway": null,
-                "actual_runway": null
-            },
-            "airline": {
-                "name": "Turkish Airlines",
-                "iata": "TK",
-                "icao": "THY"
-            },
-            "flight": {
-                "number": "8349",
-                "iata": "TK8349",
-                "icao": "THY8349",
-                "codeshared": {
-                    "airline_name": "gulf air",
-                    "airline_iata": "gf",
-                    "airline_icao": "gfa",
-                    "flight_number": "44",
-                    "flight_iata": "gf44",
-                    "flight_icao": "gfa44"
-                }
-            },
-            "aircraft": null,
-            "live": null
-        },
-        {
-            "flight_date": "2025-05-14",
-            "flight_status": "active",
-            "departure": {
-                "airport": "Istanbul Airport",
-                "timezone": "Europe/Istanbul",
-                "iata": "IST",
-                "icao": "LTFM",
-                "terminal": "1",
-                "gate": "C4",
-                "delay": 29,
-                "scheduled": "2025-05-14T16:10:00+00:00",
-                "estimated": "2025-05-14T16:10:00+00:00",
-                "actual": "2025-05-14T16:38:00+00:00",
-                "estimated_runway": "2025-05-14T16:38:00+00:00",
-                "actual_runway": "2025-05-14T16:38:00+00:00"
-            },
-            "arrival": {
-                "airport": "Bahrain International",
-                "timezone": "Asia/Bahrain",
-                "iata": "BAH",
-                "icao": "OBBI",
-                "terminal": "4",
-                "gate": "16",
-                "baggage": "A07",
-                "scheduled": "2025-05-14T20:20:00+00:00",
-                "delay": null,
-                "estimated": "2025-05-14T20:14:00+00:00",
-                "actual": null,
-                "estimated_runway": null,
-                "actual_runway": null
-            },
-            "airline": {
-                "name": "Gulf Air",
-                "iata": "GF",
-                "icao": "GFA"
-            },
-            "flight": {
-                "number": "44",
-                "iata": "GF44",
-                "icao": "GFA44",
-                "codeshared": null
-            },
-            "aircraft": {
-                "registration": "A9C-TB",
-                "iata": "A20N",
-                "icao": "A20N",
-                "icao24": "894095"
-            },
-            "live": {
-                "updated": "2025-05-14T17:20:54+00:00",
-                "latitude": 26.268,
-                "longitude": 50.6311,
-                "altitude": 0,
-                "direction": 210,
-                "speed_horizontal": 1.852,
-                "speed_vertical": 0,
-                "is_ground": true
-            }
-        },
-        {
-            "flight_date": "2025-05-14",
-            "flight_status": "landed",
-            "departure": {
-                "airport": "Dubai",
-                "timezone": "Asia/Dubai",
-                "iata": "DXB",
-                "icao": "OMDB",
-                "terminal": "3",
-                "gate": "C14",
-                "delay": 14,
-                "scheduled": "2025-05-14T16:10:00+00:00",
-                "estimated": "2025-05-14T16:10:00+00:00",
-                "actual": "2025-05-14T16:23:00+00:00",
-                "estimated_runway": "2025-05-14T16:23:00+00:00",
-                "actual_runway": "2025-05-14T16:23:00+00:00"
-            },
-            "arrival": {
-                "airport": "Bahrain International",
-                "timezone": "Asia/Bahrain",
-                "iata": "BAH",
-                "icao": "OBBI",
-                "terminal": "4",
-                "gate": "15",
-                "baggage": "A01",
-                "scheduled": "2025-05-14T16:30:00+00:00",
-                "delay": null,
-                "estimated": "2025-05-14T16:16:00+00:00",
-                "actual": "2025-05-14T16:17:00+00:00",
-                "estimated_runway": "2025-05-14T16:17:00+00:00",
-                "actual_runway": "2025-05-14T16:17:00+00:00"
-            },
-            "airline": {
-                "name": "Qantas",
-                "iata": "QF",
-                "icao": "QFA"
-            },
-            "flight": {
-                "number": "8839",
-                "iata": "QF8839",
-                "icao": "QFA8839",
-                "codeshared": {
-                    "airline_name": "emirates",
-                    "airline_iata": "ek",
-                    "airline_icao": "uae",
-                    "flight_number": "839",
-                    "flight_iata": "ek839",
-                    "flight_icao": "uae839"
-                }
-            },
-            "aircraft": null,
-            "live": null
-        },
-        {
-            "flight_date": "2025-05-14",
-            "flight_status": "landed",
-            "departure": {
-                "airport": "King Abdulaziz International",
-                "timezone": "Asia/Riyadh",
-                "iata": "JED",
-                "icao": "OEJN",
-                "terminal": "1",
-                "gate": null,
-                "delay": 50,
-                "scheduled": "2025-05-14T16:40:00+00:00",
-                "estimated": "2025-05-14T16:40:00+00:00",
-                "actual": "2025-05-14T18:02:00+00:00",
-                "estimated_runway": "2025-05-14T18:02:00+00:00",
-                "actual_runway": "2025-05-14T18:02:00+00:00"
-            },
-            "arrival": {
-                "airport": "Bahrain International",
-                "timezone": "Asia/Bahrain",
-                "iata": "BAH",
-                "icao": "OBBI",
-                "terminal": "4",
-                "gate": "15",
-                "baggage": "A01",
-                "scheduled": "2025-05-14T18:50:00+00:00",
-                "delay": 58,
-                "estimated": "2025-05-14T19:48:00+00:00",
-                "actual": null,
-                "estimated_runway": null,
-                "actual_runway": null
-            },
-            "airline": {
-                "name": "Gulf Air",
-                "iata": "GF",
-                "icao": "GFA"
-            },
-            "flight": {
-                "number": "184",
-                "iata": "GF184",
-                "icao": "GFA184",
-                "codeshared": null
-            },
-            "aircraft": {
-                "registration": "A9C-AC",
-                "iata": "A320",
-                "icao": "A320",
-                "icao24": "89405A"
-            },
-            "live": null
-        },
-        {
-            "flight_date": "2025-05-14",
-            "flight_status": "landed",
-            "departure": {
-                "airport": "Dubai",
-                "timezone": "Asia/Dubai",
-                "iata": "DXB",
-                "icao": "OMDB",
-                "terminal": "2",
-                "gate": "F12",
-                "delay": 19,
-                "scheduled": "2025-05-14T17:15:00+00:00",
-                "estimated": "2025-05-14T17:15:00+00:00",
-                "actual": "2025-05-14T17:33:00+00:00",
-                "estimated_runway": "2025-05-14T17:33:00+00:00",
-                "actual_runway": "2025-05-14T17:33:00+00:00"
-            },
-            "arrival": {
-                "airport": "Bahrain International",
-                "timezone": "Asia/Bahrain",
-                "iata": "BAH",
-                "icao": "OBBI",
-                "terminal": "4",
-                "gate": "12B",
-                "baggage": "A06",
-                "scheduled": "2025-05-14T17:30:00+00:00",
-                "delay": null,
-                "estimated": "2025-05-14T17:27:00+00:00",
-                "actual": "2025-05-14T17:27:00+00:00",
-                "estimated_runway": "2025-05-14T17:27:00+00:00",
-                "actual_runway": "2025-05-14T17:27:00+00:00"
-            },
-            "airline": {
-                "name": "flydubai",
-                "iata": "FZ",
-                "icao": "FDB"
-            },
-            "flight": {
-                "number": "27",
-                "iata": "FZ27",
-                "icao": "FDB27",
-                "codeshared": null
-            },
-            "aircraft": {
-                "registration": "A6-FEC",
-                "iata": "B738",
-                "icao": "B738",
-                "icao24": "896334"
-            },
-            "live": null
-        },
-        {
-            "flight_date": "2025-05-14",
-            "flight_status": "active",
-            "departure": {
-                "airport": "Cincinnati/Northern Kentucky",
-                "timezone": "America/New_York",
-                "iata": "CVG",
-                "icao": "KCVG",
-                "terminal": null,
-                "gate": null,
-                "delay": 30,
-                "scheduled": "2025-05-14T05:35:00+00:00",
-                "estimated": "2025-05-14T05:35:00+00:00",
-                "actual": "2025-05-14T06:05:00+00:00",
-                "estimated_runway": "2025-05-14T06:05:00+00:00",
-                "actual_runway": "2025-05-14T06:05:00+00:00"
-            },
-            "arrival": {
-                "airport": "Bahrain International",
-                "timezone": "Asia/Bahrain",
-                "iata": "BAH",
-                "icao": "OBBI",
-                "terminal": "4",
-                "gate": null,
-                "baggage": null,
-                "scheduled": "2025-05-15T02:02:00+00:00",
-                "delay": null,
-                "estimated": "2025-05-15T01:32:00+00:00",
-                "actual": null,
-                "estimated_runway": null,
-                "actual_runway": null
-            },
-            "airline": {
-                "name": "DHL Air",
-                "iata": "D0",
-                "icao": "DHK"
-            },
-            "flight": {
-                "number": "703",
-                "iata": "D0703",
-                "icao": "DHK703",
-                "codeshared": null
-            },
-            "aircraft": {
-                "registration": "G-DHLX",
-                "iata": "B77L",
-                "icao": "B77L",
-                "icao24": "407CF7"
-            },
-            "live": {
-                "updated": "2025-05-14T17:29:50+00:00",
-                "latitude": 46.0599,
-                "longitude": 0.4732,
-                "altitude": 10668,
-                "direction": 86.59,
-                "speed_horizontal": 901.656,
-                "speed_vertical": 0,
-                "is_ground": false
-            }
         }
     ]
 }

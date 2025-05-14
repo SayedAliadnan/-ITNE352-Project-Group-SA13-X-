@@ -48,7 +48,6 @@ def handle_client(client_socket, address, username): # المثود هذي تت�
                 client_socket.send(response.encode() if response else b"No delayed flights found.\n")       # هنا نرسل البيانات للكلاينت    
 
             elif request == '3':  # Flight details تفاصيل الرحلة
-                client_socket.send(b"Enter flight IATA code: ")# اهني نطلب من الكلاينت يكتب كود الرحلة
                 code = client_socket.recv(1024).decode().strip()# هني ناخذ كود الرحلة من الكلاينت
                 found = False# اهني نبي نشوف اذا الكود موجود ولا لا
                 for flight in data: # اهني نبحث في البيانات الي جبناها من API

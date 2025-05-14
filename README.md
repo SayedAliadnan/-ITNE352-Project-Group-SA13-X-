@@ -82,7 +82,16 @@ Menu:
 2. Get Delayed Flights
 3. Search Flight by Code
 4. Quit
-Select an option (1-4):  
+Select an option (1-4): 3
+Enter flight ICAO code : G917
+Flight Details:
+ Flight: G917
+To: Bahrain International, Terminal: 4, Gate: 13
+Status: landed
+Scheduled Departure: 2025-05-14T18:20:00+00:00
+Scheduled Arrival: 2025-05-14T18:30:00+00:00
+
+
 
 
 

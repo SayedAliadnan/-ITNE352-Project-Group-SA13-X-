@@ -99,8 +99,19 @@ all delayed flights have arrived
 Select an option (1-4): 4 
 quit program
 ```
+## System Architecture
+* Client/Server: The client sends requests to the server via TCP, and the server responds with the requested data.
+* Multithreading: Each client is handled in a separate thread to ensure fast response and support for multiple users.![](client_server_diagram.png)
 
+## Error Handling
+* The system handles errors such as unavailable data, wrong flight codes
+* Clear messages are shown to the user if any error occurs.
 
+* Features
+View arrived flights.
+View delayed flights.
+Search for flight details by flight code.
+Supports multiple clients at the same time (multithreading).
 
 
 

@@ -20,6 +20,9 @@ Second Semester 2024/2025
    * [run the server code](#run-the-server-code)
    * [run the client code](#run-the-client-code)
 4. [API Key](#api-key)
+5. [Example Usage](#example-usage)
+   * [Server Output](#server-output)
+   * [Client Output](#client-output)
 
 
 
@@ -61,6 +64,25 @@ API URL: http://api.aviationstack.com/v1/flights?access_key
 
 API Key: 1d14536c4196c2d80900fd9ac26fb84a
 
+
+## Example Usage
+### Server Output
+```bash
+Server started on
+Enter ICAO code of airport(e.g, OBBI): obbi
+Data saved to SA13.json
+Server listening on 127.0.0.1: 9090...
+connected with ali at ('127.0.0.0', 56038)
+```
+### Client Output
+```bash
+Enter youer name: ali
+Menu:
+1. Get Arrived Flights
+2. Get Delayed Flights
+3. Search Flight by Code
+4. Quit
+Select an option (1-4):  
 
 
 

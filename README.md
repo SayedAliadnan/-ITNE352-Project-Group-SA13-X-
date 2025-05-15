@@ -113,7 +113,18 @@ View delayed flights.
 Search for flight details by flight code.
 Supports multiple clients at the same time (multithreading).
 
+## Client-Server Communication and API Data Flow
+* The client sends a request to the server for flight data.
+* The server fetches the data from the AviationStack API and processes it.
+* The server sends the requested data back to the client.
+* The client displays the data to the user in a user-friendly format.
 
+
+![alt text](image.png)
+```
+```
+![alt text](image-1.png)
+```
 
 ## conclusion
 The Multithreaded Flight Arrival Client/Server Information System is a robust and efficient solution for real-time flight status updates. By leveraging the AviationStack API, the system provides accurate and timely information to users, making it an essential tool for travelers and aviation enthusiasts alike. The use of multithreading allows for concurrent client connections, ensuring that multiple users can access flight data simultaneously without any performance degradation. Overall, this project demonstrates the power of Python in building scalable and responsive applications in the field of aviation information systems.

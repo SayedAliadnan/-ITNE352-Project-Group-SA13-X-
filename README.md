@@ -23,14 +23,11 @@ Second Semester 2024/2025
 5. [Example Usage](#example-usage)
    * [Server Output](#server-output)
    * [Client Output](#client-output)
-
-
-
-
-
-
-
-
+6. [System Architecture](#system-architecture)
+7. [Error Handling](#error-handling)
+8. [Client-Server Communication and API Data Flow](#client-server-communication-and-api-data-flow)
+9. [Security (SSL/TLS Support)](#security-ssltls-support)
+10. [conclusion](#conclusion)   
 
 ## requirements
 * Python 3.x
@@ -120,11 +117,18 @@ Supports multiple clients at the same time (multithreading).
 * The client displays the data to the user in a user-friendly format.
 
 
-![alt text](image.png)
-```
-```
-![alt text](image-1.png)
-```
+[<img src="image.png" width="500"/>](image.png)
+
+
+[<img src="image-1.png" width="500"/>](image-1.png)
+
+
+## Security (SSL/TLS Support)
+For enhanced security, this project can be extended to support SSL/TLS encryption. By enabling SSL/TLS, all communication between the client and server will be encrypted, protecting sensitive data from interception or tampering. This is recommended for real-world deployments.
+
+
+
+
 
 ## conclusion
 The Multithreaded Flight Arrival Client/Server Information System is a robust and efficient solution for real-time flight status updates. By leveraging the AviationStack API, the system provides accurate and timely information to users, making it an essential tool for travelers and aviation enthusiasts alike. The use of multithreading allows for concurrent client connections, ensuring that multiple users can access flight data simultaneously without any performance degradation. Overall, this project demonstrates the power of Python in building scalable and responsive applications in the field of aviation information systems.
